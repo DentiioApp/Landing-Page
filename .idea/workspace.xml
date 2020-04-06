@@ -1,7 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="16127a67-dccd-4f78-8fb8-861bc3bad13f" name="Default Changelist" comment="" />
+    <list default="true" id="16127a67-dccd-4f78-8fb8-861bc3bad13f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.github/ISSUE_TEMPLATES/1_Bug_Report.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.github/ISSUE_TEMPLATES/2_Feature_Request.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.github/ISSUE_TEMPLATES/3_Documentation_Issue.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.github/ISSUE_TEMPLATES/4_Support_Question.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.github/PULL_REQUEST_TEMPLATE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.github/workflows/deploy.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/form-button.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/list.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/mdb.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/photo/dentist-photo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/mdb.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/popper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lis.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LandingPage.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Facebook.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Instagram.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/dentist.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/ggform.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/illus.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/illus.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/illusordi.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/illusordi.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/linkedin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/teamwork.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/tooth.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,17 +44,95 @@
     </execution>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="108" selection-start-line="4" selection-start-column="108" selection-end-line="4" selection-end-column="108" />
+            <state relative-caret-position="433">
+              <caret line="29" column="61" selection-start-line="29" selection-start-column="61" selection-end-line="29" selection-end-column="61" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/LandingPage.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="393">
+              <caret line="376" column="1" lean-forward="true" selection-start-line="376" selection-start-column="1" selection-end-line="376" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.github/workflows/deploy.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="56" selection-start-line="19" selection-start-column="56" selection-end-line="19" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/bootstrap4/bootstrap.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="321">
+              <caret line="8404" column="1" selection-start-line="8404" selection-start-column="1" selection-end-line="8404" selection-end-column="1" />
+              <folding>
+                <element signature="e#36724#36979#2" expanded="true" />
+                <element signature="e#37651#37825#1" expanded="true" />
+                <element signature="e#37867#38122#1" expanded="true" />
+                <element signature="e#40739#41053#2" expanded="true" />
+                <element signature="e#41737#41911#1" expanded="true" />
+                <element signature="e#41953#42267#1" expanded="true" />
+                <element signature="e#76085#76293#2" expanded="true" />
+                <element signature="e#76548#76705#2" expanded="true" />
+                <element signature="e#77158#77314#2" expanded="true" />
+                <element signature="e#79017#79191#1" expanded="true" />
+                <element signature="e#95743#95996#2" expanded="true" />
+                <element signature="e#97008#97267#2" expanded="true" />
+                <element signature="e#133357#133553#2" expanded="true" />
+                <element signature="e#133608#133805#2" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>cont</find>
+      <find>illu</find>
+      <find>bounceInLeft</find>
+      <find>primary</find>
+      <find>00bcfb</find>
+      <find>007bff</find>
+      <find>subt</find>
+      <find>illusb</find>
+      <find>animate</find>
+      <find>h1</find>
+      <find>tit</find>
+      <find>tittle</find>
+      <find>picto</find>
+      <find>list</find>
+      <find>6c757d</find>
+      <find>bck</find>
+      <find>title2</find>
+      <find>15%</find>
+      <find>sub</find>
+      <find>;</find>
+      <find>253, 220, 50</find>
+      <find>fff</find>
+      <find>btn</find>
+      <find>pos</find>
+      <find>rs</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>00BCFB</replace>
+      <replace>BAE6FA</replace>
+      <replace>!important;</replace>
+      <replace>186, 230, 250</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -32,23 +140,28 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/css/bootstrap4/bootstrap.css" />
+        <option value="$PROJECT_DIR$/css/accordeon.css" />
+        <option value="$PROJECT_DIR$/css/accordeon.scss" />
+        <option value="$PROJECT_DIR$/accordeon.html" />
+        <option value="$PROJECT_DIR$/lis.html" />
+        <option value="$PROJECT_DIR$/css/list.css" />
+        <option value="$PROJECT_DIR$/form-button.css" />
+        <option value="$PROJECT_DIR$/css/liquid-button.css" />
+        <option value="$PROJECT_DIR$/js/liquid-button.js" />
+        <option value="$PROJECT_DIR$/css/mdb.css" />
+        <option value="$PROJECT_DIR$/css/form-button.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/LandingPage.css" />
+        <option value="$PROJECT_DIR$/.github/workflows/deploy.yml" />
       </list>
     </option>
   </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/Dentiio-Landing-Page.iml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="width" value="1440" />
-    <option name="height" value="900" />
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="x" value="-221" />
+    <option name="y" value="-1080" />
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -63,6 +176,22 @@
               <item name="Dentiio-Landing-Page" type="b2602c69:ProjectViewProjectNode" />
               <item name="Dentiio-Landing-Page" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Dentiio-Landing-Page" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Dentiio-Landing-Page" type="462c0819:PsiDirectoryNode" />
+              <item name=".github" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Dentiio-Landing-Page" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Dentiio-Landing-Page" type="462c0819:PsiDirectoryNode" />
+              <item name=".github" type="462c0819:PsiDirectoryNode" />
+              <item name="workflows" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Dentiio-Landing-Page" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Dentiio-Landing-Page" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -70,10 +199,22 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/css/" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/img/photo" />
+      <recent name="$PROJECT_DIR$/js" />
+      <recent name="$PROJECT_DIR$/css" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -97,27 +238,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585923755201</updated>
-      <workItem from="1585923756468" duration="178000" />
+      <workItem from="1585923756468" duration="362000" />
+      <workItem from="1586015064172" duration="4026000" />
+      <workItem from="1586094573523" duration="11789000" />
+      <workItem from="1586163545794" duration="13902000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="178000" />
+    <option name="totallyTimeSpent" value="30079000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
+    <frame x="-221" y="-1080" width="1920" height="1080" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14430244" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="RNConsole" />
-      <window_info anchor="bottom" id="GraphQL" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -125,20 +262,150 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="GraphQL" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="RNConsole" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="12" visible="true" weight="0.32871288" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/Mdb-animation/css/mdb.css" />
+    <entry file="file://$USER_HOME$/Downloads/Mdb-animation/js/mdb.js" />
+    <entry file="file://$PROJECT_DIR$/js/mdb.js" />
+    <entry file="file://$PROJECT_DIR$/js/bootstrap.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="6" column="41" lean-forward="true" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/MDB-Free_4.15.0/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="35" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="35" />
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/accordeon.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="24" column="6" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accordeon.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+          <folding>
+            <element signature="n#style#0;n#ul#0;n#nav#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#0;n#ul#0;n#nav#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#1;n#ul#0;n#nav#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#2;n#ul#0;n#nav#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#3;n#ul#0;n#nav#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lis.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
-          <caret line="4" column="108" selection-start-line="4" selection-start-column="108" selection-end-line="4" selection-end-column="108" />
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/list.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="37" column="30" selection-start-line="37" selection-start-column="30" selection-end-line="37" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/liquid-button.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="168" column="28" selection-start-line="168" selection-start-column="28" selection-end-line="168" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/liquid-button.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/mdb.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54525">
+          <caret line="3635" column="39" lean-forward="true" selection-start-line="3635" selection-start-column="39" selection-end-line="3635" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/form-button.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="11" lean-forward="true" selection-start-line="27" selection-start-column="11" selection-end-line="27" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap4/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="8404" column="1" selection-start-line="8404" selection-start-column="1" selection-end-line="8404" selection-end-column="1" />
+          <folding>
+            <element signature="e#36724#36979#2" expanded="true" />
+            <element signature="e#37651#37825#1" expanded="true" />
+            <element signature="e#37867#38122#1" expanded="true" />
+            <element signature="e#40739#41053#2" expanded="true" />
+            <element signature="e#41737#41911#1" expanded="true" />
+            <element signature="e#41953#42267#1" expanded="true" />
+            <element signature="e#76085#76293#2" expanded="true" />
+            <element signature="e#76548#76705#2" expanded="true" />
+            <element signature="e#77158#77314#2" expanded="true" />
+            <element signature="e#79017#79191#1" expanded="true" />
+            <element signature="e#95743#95996#2" expanded="true" />
+            <element signature="e#97008#97267#2" expanded="true" />
+            <element signature="e#133357#133553#2" expanded="true" />
+            <element signature="e#133608#133805#2" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="433">
+          <caret line="29" column="61" selection-start-line="29" selection-start-column="61" selection-end-line="29" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/LandingPage.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="393">
+          <caret line="376" column="1" lean-forward="true" selection-start-line="376" selection-start-column="1" selection-end-line="376" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.github/workflows/deploy.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="56" selection-start-line="19" selection-start-column="56" selection-end-line="19" selection-end-column="56" />
         </state>
       </provider>
     </entry>
