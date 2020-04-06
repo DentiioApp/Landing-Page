@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="16127a67-dccd-4f78-8fb8-861bc3bad13f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="16127a67-dccd-4f78-8fb8-861bc3bad13f" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,8 +94,8 @@
       <find>253, 220, 50</find>
       <find>fff</find>
       <find>btn</find>
-      <find>pos</find>
       <find>rs</find>
+      <find>pos</find>
     </findStrings>
     <replaceStrings>
       <replace>00BCFB</replace>
@@ -126,6 +124,7 @@
         <option value="$PROJECT_DIR$/css/LandingPage.css" />
         <option value="$PROJECT_DIR$/.github/workflows/deploy.yml" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/depoly.php" />
       </list>
     </option>
   </component>
@@ -197,17 +196,18 @@
       <workItem from="1585923756468" duration="362000" />
       <workItem from="1586015064172" duration="4026000" />
       <workItem from="1586094573523" duration="11789000" />
-      <workItem from="1586163545794" duration="14197000" />
+      <workItem from="1586163545794" duration="14440000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30374000" />
+    <option name="totallyTimeSpent" value="30617000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-221" y="-1080" width="1920" height="1080" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14430244" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14430244" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -222,7 +222,7 @@
       <window_info anchor="bottom" id="GraphQL" order="9" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
       <window_info anchor="bottom" id="RNConsole" order="11" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="12" visible="true" weight="0.32871288" />
+      <window_info anchor="bottom" id="Terminal" order="12" visible="true" weight="0.32871288" />
       <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -354,6 +354,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="19" column="96" selection-start-line="19" selection-start-column="96" selection-end-line="19" selection-end-column="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/depoly.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
