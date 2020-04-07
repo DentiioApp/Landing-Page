@@ -36,23 +36,25 @@
 
             <!--HEADER-->
             <div class='container pb-4'>
-                <div class='col-7'>
-                    <div class="pt-5">
-                        <h1 class="text-primary pl-2 pt-2 title-name">Dentiio</h1>
-                        <div class="pl-2">
-                            <h1 class='text-res text-grey text-uppercase title-word animated bounceInLeft'>La référence du diagnostic dentaire</h1>
-                            <ul class="block1_text_list pt-3 pl-5">
-                                <li class="block1_text_list text-black-50 text-uppercase">Découvrez des cas cliniques</li>
-                                <li class="block1_text_list text-black-50 text-uppercase">Partagez votre pratique</li>
-                                <li class="block1_text_list text-black-50 text-uppercase">Communiquez avec des confrères</li>
-                            </ul>
-                            <p class='text-grey text-center pl-5 text-black-50 font-weight-light'>Aidez-nous à répondre au mieux à vos besoins en répondant à notre questionnaire</p>
-                            <a href="https://docs.google.com/forms/d/e/1FAIpQLSfS_jq9N_vC1eYy48ZX8I3hqyO7R4be91k5Vi_2BUymXkM-eg/viewform?usp=sf_link" target='_blank' rel="noopener noreferrer" class="button instagram mt-4 mb-5"><span class="gradient"></span>Répondez au questionnaire</a>
+                <div class="row">
+                    <div class='col-12 col-sm12 col-md-7 col-lg-7'>
+                        <div class="pt-5">
+                            <h1 class="text-primary pl-2 pt-2 title-name">Dentiio</h1>
+                            <div class="pl-2">
+                                <h1 class='text-res text-grey text-uppercase title-word animated bounceInLeft'>La référence du diagnostic dentaire</h1>
+          <!--                      <ul class="block1_text_list pt-3 pl-5">
+                                    <li class="block1_text_list text-black-50 text-uppercase">Découvrer des cas cliniques</li>
+                                    <li class="block1_text_list text-black-50 text-uppercase">Partagez votre pratique</li>
+                                    <li class="block1_text_list text-black-50 text-uppercase">Communiquez avec des confrères</li>
+                                </ul>-->
+                                <h2 class='text-grey pt-5 mt-3  text-black-50 text-left title2'>Aidez-nous à nous améliorer.</h2>
+                                <a href="https://docs.google.com/forms/d/e/1FAIpQLSfS_jq9N_vC1eYy48ZX8I3hqyO7R4be91k5Vi_2BUymXkM-eg/viewform?usp=sf_link" target='_blank' rel="noopener noreferrer" class="button buttonhome mt-4 mb-5"><span class="gradient"></span>Répondre au questionnaire</a>
+                            </div>
                         </div>
                     </div>
-                </div>
-                <div class='col-5 illusbloc'>
-                    <img class='illus' alt="illustration of dentists caring for a tooth" src="img/illusordi.png"/>
+                    <div class='col-12 col-sm12 col-md-5 col-lg-5 illusbloc'>
+                        <img class='illus' alt="illustration of dentists caring for a tooth" src="img/illusordi.png"/>
+                    </div>
                 </div>
             </div>
 

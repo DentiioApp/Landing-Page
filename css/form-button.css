@@ -1,5 +1,5 @@
 .button {
-    display: block;
+    display: inline-block;
     width: 320px;
     max-width: 100%;
     margin: 0 auto;
@@ -13,7 +13,7 @@
     box-shadow: 0 9px 18px rgba(0,0,0,0.2);
 }
 
-.instagram {
+.buttonhome {
     text-align: center;
     border-radius: 50px;
     padding: 10px;
