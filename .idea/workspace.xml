@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16127a67-dccd-4f78-8fb8-861bc3bad13f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/test.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/form-button.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/form-button.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/LandingPage.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/LandingPage.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap4/bootstrap-grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap4/bootstrap-grid.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,60 +24,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="203">
-              <caret line="38" column="53" selection-start-line="38" selection-start-column="53" selection-end-line="38" selection-end-column="53" />
+            <state relative-caret-position="90">
+              <caret line="6" column="30" lean-forward="true" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/form-button.css">
+        <entry file="file://$PROJECT_DIR$/v2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="27" lean-forward="true" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/LandingPage.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="753">
-              <caret line="376" column="1" selection-start-line="376" selection-start-column="1" selection-end-line="376" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.github/workflows/deploy.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="96" selection-start-line="19" selection-start-column="96" selection-end-line="19" selection-end-column="96" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/bootstrap4/bootstrap.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126060">
-              <caret line="8404" column="1" selection-start-line="8404" selection-start-column="1" selection-end-line="8404" selection-end-column="1" />
-              <folding>
-                <element signature="e#36724#36979#2" expanded="true" />
-                <element signature="e#37651#37825#1" expanded="true" />
-                <element signature="e#37867#38122#1" expanded="true" />
-                <element signature="e#40739#41053#2" expanded="true" />
-                <element signature="e#41737#41911#1" expanded="true" />
-                <element signature="e#41953#42267#1" expanded="true" />
-                <element signature="e#76085#76293#2" expanded="true" />
-                <element signature="e#76548#76705#2" expanded="true" />
-                <element signature="e#77158#77314#2" expanded="true" />
-                <element signature="e#79017#79191#1" expanded="true" />
-                <element signature="e#95743#95996#2" expanded="true" />
-                <element signature="e#97008#97267#2" expanded="true" />
-                <element signature="e#133357#133553#2" expanded="true" />
-                <element signature="e#133608#133805#2" expanded="true" />
-              </folding>
+            <state relative-caret-position="60">
+              <caret line="4" column="66" selection-start-line="4" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -84,9 +43,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>cont</find>
-      <find>illu</find>
-      <find>bounceInLeft</find>
       <find>primary</find>
       <find>00bcfb</find>
       <find>007bff</find>
@@ -109,6 +65,14 @@
       <find>btn</find>
       <find>rs</find>
       <find>pos</find>
+      <find>contain</find>
+      <find>col-12</find>
+      <find>col-md</find>
+      <find>col-sm</find>
+      <find>@</find>
+      <find>@medi</find>
+      <find>col-lg</find>
+      <find>contai</find>
     </findStrings>
     <replaceStrings>
       <replace>00BCFB</replace>
@@ -123,7 +87,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/css/bootstrap4/bootstrap.css" />
         <option value="$PROJECT_DIR$/css/accordeon.css" />
         <option value="$PROJECT_DIR$/css/accordeon.scss" />
         <option value="$PROJECT_DIR$/accordeon.html" />
@@ -133,11 +96,15 @@
         <option value="$PROJECT_DIR$/css/liquid-button.css" />
         <option value="$PROJECT_DIR$/js/liquid-button.js" />
         <option value="$PROJECT_DIR$/css/mdb.css" />
-        <option value="$PROJECT_DIR$/css/LandingPage.css" />
         <option value="$PROJECT_DIR$/.github/workflows/deploy.yml" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/depoly.php" />
         <option value="$PROJECT_DIR$/css/form-button.css" />
+        <option value="$PROJECT_DIR$/css/bootstrap4/bootstrap-grid.css" />
+        <option value="$PROJECT_DIR$/test.html" />
+        <option value="$PROJECT_DIR$/css/bootstrap4/bootstrap.css" />
+        <option value="$PROJECT_DIR$/css/LandingPage.css" />
+        <option value="$PROJECT_DIR$/v2.html" />
         <option value="$PROJECT_DIR$/index.php" />
       </list>
     </option>
@@ -165,6 +132,22 @@
               <item name="Dentiio-Landing-Page" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Dentiio-Landing-Page" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Dentiio-Landing-Page" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="bootstrap4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Dentiio-Landing-Page" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Dentiio-Landing-Page" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Dentiio-Landing-Page" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Dentiio-Landing-Page" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -180,14 +163,16 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/css/" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/img/photo" />
       <recent name="$PROJECT_DIR$/js" />
       <recent name="$PROJECT_DIR$/css" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/css" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/css/" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -217,18 +202,20 @@
       <workItem from="1586094573523" duration="11789000" />
       <workItem from="1586163545794" duration="14704000" />
       <workItem from="1586190452458" duration="23000" />
-      <workItem from="1586190696969" duration="1766000" />
+      <workItem from="1586190696969" duration="3459000" />
+      <workItem from="1586281991021" duration="3302000" />
+      <workItem from="1586333810283" duration="519000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32670000" />
+    <option name="totallyTimeSpent" value="38184000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-221" y="-1080" width="1920" height="1080" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11128861" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20607029" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -243,7 +230,7 @@
       <window_info anchor="bottom" id="GraphQL" order="9" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
       <window_info anchor="bottom" id="RNConsole" order="11" />
-      <window_info anchor="bottom" id="Terminal" order="12" weight="0.2879518" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.28712872" />
       <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -298,6 +285,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/depoly.php" />
+    <entry file="file://$PROJECT_DIR$/css/form-button.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/.github/workflows/deploy.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -307,8 +301,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/bootstrap4/bootstrap.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126060">
-          <caret line="8404" column="1" selection-start-line="8404" selection-start-column="1" selection-end-line="8404" selection-end-column="1" />
+        <state relative-caret-position="15450">
+          <caret line="1030" column="22" selection-start-line="1030" selection-start-column="22" selection-end-line="1030" selection-end-column="22" />
           <folding>
             <element signature="e#36724#36979#2" expanded="true" />
             <element signature="e#37651#37825#1" expanded="true" />
@@ -328,24 +322,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/LandingPage.css">
+    <entry file="file://$PROJECT_DIR$/test.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="753">
-          <caret line="376" column="1" selection-start-line="376" selection-start-column="1" selection-end-line="376" selection-end-column="1" />
+        <state relative-caret-position="360">
+          <caret line="24" column="25" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/form-button.css">
+    <entry file="file://$PROJECT_DIR$/css/bootstrap4/bootstrap-grid.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="27" lean-forward="true" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+        <state relative-caret-position="8400">
+          <caret line="560" column="18" selection-start-line="560" selection-start-column="18" selection-end-line="560" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/LandingPage.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="156" column="21" selection-start-line="156" selection-start-column="21" selection-end-line="156" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="66" selection-start-line="4" selection-end-line="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="38" column="53" selection-start-line="38" selection-start-column="53" selection-end-line="38" selection-end-column="53" />
+        <state relative-caret-position="90">
+          <caret line="6" column="30" lean-forward="true" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
         </state>
       </provider>
     </entry>
