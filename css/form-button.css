@@ -1,6 +1,6 @@
 .button {
-    display: inline-block;
-    width: 320px;
+    display: block;
+    width: 250px;
     max-width: 100%;
     margin: 0 auto;
     margin-bottom: 0;
@@ -10,7 +10,6 @@
     text-decoration: none;
     box-sizing: border-box;
     font-weight: normal;
-    box-shadow: 0 9px 18px rgba(0,0,0,0.2);
 }
 
 .buttonhome {
@@ -36,6 +35,15 @@
     transition: all 0s ease-out 0s;
     transform: translatex(-140px);
     animation: 18s linear 0s infinite move;
+}
+
+a{
+    transition: 0.3s;
+}
+a.button:hover{
+    background-color: #fff!important;
+    color: #03B6F0!important;
+    border: 1px #03B6F0 solid!important;
 }
 
 @keyframes move {

@@ -4,6 +4,15 @@
 /* Colors */
 /*** EXTEND ***/
 /* box-shadow */
+ol.gradient-list > li.li-one::before{
+    content: "1";
+}
+ol.gradient-list > li.li-two::before{
+    content: "2";
+}
+ol.gradient-list > li.li-three::before{
+    content: "3";
+}
 ol.gradient-list > li, ol.gradient-list > li::before {
     box-shadow: 0.25rem 0.25rem 0.6rem rgba(0, 0, 0, 0.05), 0 0.5rem 1.125rem rgba(75, 0, 0, 0.05);
 }
@@ -37,7 +46,6 @@ ol.gradient-list > li::before, ol.gradient-list > li::after {
 }
 ol.gradient-list > li::before {
     align-items: flex-end;
-    content: counter(gradient-counter);
     color: #FFF;
     display: flex;
     font: 900 1.5em/1 'Montserrat';
