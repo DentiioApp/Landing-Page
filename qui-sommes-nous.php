@@ -47,8 +47,12 @@
             <div class="pt-md-5 pl-md-5">
                 <h1 class="text-primary text-res pt-2 title-name">Le projet</h1>
                 <p class="h5 text-grey pt-5">
-                    Une start-up specialisée dans le développement et le déploiement d’une solution de télémédecine bucco-dentaire. e-DENTECH est issu de la valorisation
-                    d’un projet de recherche publique du CHU et de l’Université de Montpellier dont l’objectif est l’amélioration de l’accès à une consultation bucco-dentaire des populations.
+                    Créée et développée par des étudiants de l'École d'Informatique, Web et Digital Marketing en Alternance IPSSI à Paris, Dentiio est le résultat d’une longue et minutieuse analyse de la pratique dentaire.<br><br>
+
+                    Ayant pour objectif d’unir la médecine dentaire et la technologie, ces étudiants, aiguillés par un chirurgien dentiste, se sont proposé de créer un réseau d’échange de connaissances et d’entraide au sein du monde odontologique.<br><br>
+
+                    Le but: devenir un allié pour ces professionnels de la santé, aussi bien pour les étudiant que pour les praticiens plus expérimenté, afin de savoir faire face, tous ensemble,  à n’importe quel cas clinique.
+
                 </p>
             </div>
         </div>
@@ -66,20 +70,17 @@
         </div>
         <div class='item33 text-center'>
             <img class='picto' alt="validate your diagnosis" src="img/picto/tooth.png"/>
-            <h2 class='picto-title text-grey'>Validez votre diagnostic</h2>
-            <p class='desc text-center text-black-50 px-md-4'>Dialoguez avec d’autres praticiens lors de vos prises de décisions grâce à notre plateforme.</p>
+            <p class='desc text-center text-black-50 px-md-4 pt-3'>Utiliser la technologie afin de créer un réseau d’entraide entre professionnels de la santé bucco-dentaire.</p>
         </div>
         <div class='item33 text-center'>
             <hr class='picto-hr'/>
             <img class='picto' alt="patient" src="img/picto/dentist.png"/>
-            <h2 class='picto-title text-grey'>Ciblez votre priorité: le patient</h2>
-            <p class='desc text-center text-black-50 px-md-4'>Choisissez la meilleure thérapeutique à adopter pour votre patient et diversifiez vos méthodes en consultant des cas cliniques réels et certifiés. </p>
+            <p class='desc text-center text-black-50 px-md-4 pt-3'>Donner aux chirurgiens-dentistes le moyen de livrer leurs expériences pratiques et leurs conseils à leurs confrères.</p>
         </div>
         <div class='item33 text-center'>
             <hr class='picto-hr'/>
             <img class='picto' alt="community" src="img/picto/teamwork.png"/>
-            <h2 class='picto-title text-grey'>Devenez acteur de votre communauté</h2>
-            <p class='desc text-center text-black-50 px-md-4'>Démarquez vous en publiant vos cas, et faites partie d’une communauté d'échanges et d’entraide.</p>
+            <p class='desc text-center text-black-50 px-md-4 pt-3'>Renforcer la solidarité médico-dentaire à travers le partage d’informations.</p>
         </div>
     </div>
 </div>
