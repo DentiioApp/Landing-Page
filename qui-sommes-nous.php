@@ -47,16 +47,16 @@
             <div class="pt-md-5 pl-md-5">
                 <h2 class="text-primary text-res text-uppercase pt-2 title2">Le projet</h2>
                 <p class="fa-1-2 text-grey pt-4 pr-4 text-justify">
-                    Créée et développée par des étudiants de l'École d'Informatique, Web et Digital Marketing IPSSI à Paris, Dentiio est le résultat d’une longue et minutieuse analyse de la pratique dentaire.<br><br>
+                    Créé et développé par des étudiants de l'École d'Informatique, Web et Digital Marketing IPSSI à Paris, Dentiio est le résultat d’une longue et minutieuse analyse de la pratique dentaire.<br><br>
 
-                    Ayant pour objectif d’unir la médecine dentaire et la technologie, ces étudiants, aiguillés par un chirurgien dentiste, se sont proposé de créer un réseau d’échange de connaissances et d’entraide au sein du monde odontologique.<br><br>
+                    Avec pour objectif de réunir la médecine dentaire et la technologie, et en collaboration avec un chirurgien-dentiste, leur ambition est de créer un véritable réseau d'échange de connaissances et d'entraide au sein de la profession.<br><br>
 
-                    Le but: devenir un allié pour ces professionnels de la santé, aussi bien pour les étudiant que pour les praticiens plus expérimenté, afin de savoir faire face, tous ensemble,  à n’importe quel cas clinique.
+                    Le but: devenir un allié de ces professionnels de santé, étudiant où praticiens expérimentés, et contibuer à l'amélioration de la pratique dentaire par l'expérience issue des cas cliniques.
 
                 </p>
             </div>
         </div>
-        <div class='col-md-5 pt-5  text-centerpl-4 mt-5'>
+        <div class='col-md-5 pt-5  text-centerpl-4 mt-md-5'>
             <img class='rounded' width="90%" alt="illustration of dentists caring for a tooth" src="img/photo/team.jpg"/>
         </div>
     </div>

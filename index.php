@@ -34,7 +34,7 @@
 </div>
 <!--EXPLICATION PICTO-->
 <p id="atout" class="mb-5"></p>
-<div class='container bck-grey picto-bloc px-3 pt-2 pb-md-5 pb-2'>
+<div class='container bck-grey bck-grey-hover picto-bloc px-3 pt-2 pb-md-5 pb-2'>
     <div class="row pb-md-5">
         <div class="col-12 col-md-12 col-lg-12 p-3 mt-2">
             <h2 class="text-grey text-uppercase text-center title2">nos atouts</h2>
@@ -69,7 +69,7 @@
                 <h2 class="text-primary text-uppercase text-left p-2 title2">notre solution</h2>
                 <p class="text-grey fa-1-2 p-2 desc">
                     Besoin d’un allié dans votre pratique quotidienne?
-                    <br><br>Dentiio réuni tout le corp médical de la santé bucco-dentaire pour échanger des cas et des protocoles thérapeutiques de façon anonyme et sécurisée.
+                    <br><br>Dentiio réunit tout le corps médical de la santé bucco-dentaire pour échanger des cas et des protocoles thérapeutiques de façon anonyme et sécurisée.
             </div>
         </div>
         <div class="col-0 col-md-1 col-lg-1"></div>
@@ -83,11 +83,12 @@
         <div class="col-12">
             <h2 class="text-white text-uppercase text-center title2">notre solution</h2>
             <p class="text-white fa-1-2 text-center pt-2 desc">
-                Besoin d’un allié dans votre pratique quotidienne? Dentiio réuni tout le corp médical de la santé bucco-dentaire pour échanger des cas et des protocoles thérapeutiques de façon anonyme et sécurisée.
+                Besoin d’un allié dans votre pratique quotidienne? Dentiio réunit tout le corps médical de la santé bucco-dentaire pour échanger des cas et des protocoles thérapeutiques de façon anonyme et sécurisée.
             </p>
         </div>
     </div>
 </div>
+
 
 <!--HOW-->
 <h2 class="text-grey text-uppercase title2 text-center mt-md-5 pt-6">Le principe</h2>
@@ -117,7 +118,7 @@
             <p class="text-black-50 fa-0-8">Maquette non définitive</p>
         </div>
     </div>
-    <div class="row pt-7 pb-7 px-md-4 bck-grey">
+    <div class="row pt-7 pb-7 px-md-4 bck-grey bck-grey-hover">
         <div class="col-md-5 order-md-last">
             <ol class="gradient-list">
                 <li class="li-two mt-n4"><h3>Publiez vos cas cliniques les plus pertinents</h3></li>
@@ -146,7 +147,7 @@
             <ol class="gradient-list">
                 <li class="li-three mt-n4"><h3>Participez aux discussions</h3></li>
                 <p class="text-grey fa-1-2 pt-5">
-                    Répondez aux questions de vos confrères ou postez les vôtres et participez activement au sein de la communautée.
+                    Répondez aux questions de vos confrères ou postez les vôtres et participez activement au sein de la communauté.
                 </p>
         </div>
         <div class="col-md-7">
@@ -156,8 +157,37 @@
     </div>
 </div>
 
-<!--OUR SOLUTION-->
-<hr class='picto-hr'/>
+<div class="container text-center d-none">
+    <div class="row">
+        <div class="col-md-6 bck-grey bck-grey-hover p-5">
+            <img class="w-75" src="img/photo/student.jpg">
+        </div>
+        <div class="col-md-6 bck-grey bck-grey-hover p-5">
+            <img class="w-75" src="img/photo/professionnel.jpg">
+        </div>
+    </div>
+</div>
+
+<!--POUR QUI-->
+<h2 class="text-center title2 text-uppercase">La communauté</h2>
+<div class="container text-center">
+    <div class="row">
+        <div class="col-md-4 bck-grey bck-grey-hover bck-grey bck-grey-hover-hover p-5">
+            <h2 class="text-grey">Etudiants</h2>
+            <p class="text-black-50">Passez enfin de la théorie à la pratique!<br> Explorer tous les aspects cliniques de la médecine dentaire.</p>
+        </div>
+        <div class="col-md-4 bck-grey bck-grey-hover bck-grey bck-grey-hover-hover p-5">
+            <h2 class="text-grey">Jeunes dentistes</h2>
+            <p class="text-black-50">Améliorez votre pratique et affirmez vos connaissances en consultant les protocoles et techniques de dentistes plus expérimentés!</p>
+        </div>
+        <div class="col-md-4 bck-grey bck-grey-hover bck-grey bck-grey-hover-hover p-5">
+            <h2 class="text-grey">Experts</h2>
+            <p class="text-black-50">Transmettez votre savoir, enseignez vos connaissances aux plus jeunes et débattez entre professionnels!</p>
+        </div>
+    </div>
+</div>
+
+<!--GG FORM-->
 <div class='container mt-4'>
     <div class="row">
         <div class='col-md-6 illusbloc'>
@@ -168,9 +198,9 @@
                 <div class="mt-3 pt-md-5">
                     <h2 class="text-primary text-uppercase text-center pt-md-5 title2">Formulaire</h2>
                 </div>
-                <p class="text-black-50 pt-3 px-md-5 mt-3  text-center fa-1-2">Notre plateforme est en développement. Elle sera prochainement disponible sur web, mobile & tablette.<br><br><br>Pour être le premier informé de toute l'actualité de Dentiio , et nous aider à réponde au mieux à vos besoins.</p>
+                <p class="text-black-50 pt-3 px-md-5 mt-3  text-center fa-1-2">Notre plateforme est en développement. Elle sera prochainement disponible sur web, mobile et tablette.<br><br><br>Pour être le premier informé de toute l'actualité de Dentiio et nous aider à réponde au mieux à vos besoins.</p>
                 <p class="text-grey pt-3 mt-1 px-md-5 text-center font-weight-bold ft-s2"> Remplissez le formulaire en cliquant ci-dessous:</p>
-                <a href="https://docs.google.com/forms/d/e/1FAIpQLSfS_jq9N_vC1eYy48ZX8I3hqyO7R4be91k5Vi_2BUymXkM-eg/viewform?usp=sf_link" target='_blank' rel="noopener noreferrer" class="nav-item button buttonhome border-0"><span class="gradient"></span>Répondre au questionnaire</a>
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLSfS_jq9N_vC1eYy48ZX8I3hqyO7R4be91k5Vi_2BUymXkM-eg/viewform?usp=sf_link" target='_blank' rel="noopener noreferrer" class="nav-item button buttonhome border-0 mt-5 mt-md-5 py-3" style="width: 400px; font-size: 1.3rem"><span class="gradient"></span>Répondre au questionnaire</a>
             </div>
         </div>
     </div>

@@ -97,6 +97,11 @@ a{
 .pt-7{
   padding-top: 5.5rem;
 }
+
+.mt-7{
+  margin-top: 5.5rem!important;
+}
+
 .pb-7{
   padding-bottom: 5rem;
 }
@@ -287,8 +292,12 @@ li.block1_text_list::before {
 }
 
 .bck-grey{
-    background: linear-gradient(to bottom right,#fff,#EEEEEE);
+  background: linear-gradient(to bottom right,#fff,#EEEEEE);
 }
+.bck-grey-hover:hover{
+  background: linear-gradient(to bottom right,#EEEEEE,#ffffff);
+}
+
 .desc{
     font-size: 1rem;
     text-align: justify;
