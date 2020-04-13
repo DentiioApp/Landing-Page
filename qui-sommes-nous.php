@@ -47,7 +47,7 @@
             <div class="pt-md-5 pl-md-5">
                 <h1 class="text-primary text-res pt-2 title-name">Le projet</h1>
                 <p class="h5 text-grey pt-5">
-                    Créée et développée par des étudiants de l'École d'Informatique, Web et Digital Marketing en Alternance IPSSI à Paris, Dentiio est le résultat d’une longue et minutieuse analyse de la pratique dentaire.<br><br>
+                    Créée et développée par des étudiants de l'École d'Informatique, Web et Digital Marketing IPSSI à Paris, Dentiio est le résultat d’une longue et minutieuse analyse de la pratique dentaire.<br><br>
 
                     Ayant pour objectif d’unir la médecine dentaire et la technologie, ces étudiants, aiguillés par un chirurgien dentiste, se sont proposé de créer un réseau d’échange de connaissances et d’entraide au sein du monde odontologique.<br><br>
 
@@ -63,23 +63,23 @@
 </div>
 <!--EXPLICATION PICTO-->
 <p id="atout" class="mb-5"></p>
-<div class='container bck-grey picto-bloc px-3 pt-2 pb-md-5 pb-2'>
+<div class='container bck-grey picto-bloc px-3 pt-2 pb-3'>
     <div class="row pb-md-5">
         <div class="col-12 col-md-12 col-lg-12 p-3 mt-2">
-            <h2 class="text-grey text-uppercase text-center title2">nos Objectifs</h2>
+            <h2 class="text-grey text-uppercase text-center title2 pb-3">nos Objectifs</h2>
         </div>
         <div class='item33 text-center'>
-            <img class='picto' alt="validate your diagnosis" src="img/picto/tooth.png"/>
+            <img class='picto' alt="validate your diagnosis" src="img/picto/laptop.png"/>
             <p class='desc text-center text-black-50 px-md-4 pt-3'>Utiliser la technologie afin de créer un réseau d’entraide entre professionnels de la santé bucco-dentaire.</p>
         </div>
         <div class='item33 text-center'>
             <hr class='picto-hr'/>
-            <img class='picto' alt="patient" src="img/picto/dentist.png"/>
+            <img class='picto' alt="patient" src="img/picto/teacher.png"/>
             <p class='desc text-center text-black-50 px-md-4 pt-3'>Donner aux chirurgiens-dentistes le moyen de livrer leurs expériences pratiques et leurs conseils à leurs confrères.</p>
         </div>
         <div class='item33 text-center'>
             <hr class='picto-hr'/>
-            <img class='picto' alt="community" src="img/picto/teamwork.png"/>
+            <img class='picto' alt="community" src="img/picto/social-care.png"/>
             <p class='desc text-center text-black-50 px-md-4 pt-3'>Renforcer la solidarité médico-dentaire à travers le partage d’informations.</p>
         </div>
     </div>

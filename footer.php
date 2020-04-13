@@ -9,7 +9,7 @@
         <div class='col-md-3 pb-3'>
             <h6>Newsletter</h6>
             <div class="input-group">
-                <input type="text" class="form-control" placeholder="Votre email" aria-label="" aria-describedby="basic-addon1">
+                <input type="text" class="form-control" placeholder="votre@email.com" aria-label="" aria-describedby="basic-addon1">
                 <div class="input-group-append">
                     <button class="btn btn-primary" type="button">S'inscrire</button>
                 </div>
@@ -18,8 +18,10 @@
         <hr class='picto-hr'/>
         <div class='col-md-3 pb-3'>
             <h6>Pages</h6>
-            <a class='text-grey' href='cgu.php'>CGU</a><br>
-            <a class='text-grey' href='privacy.php'>Confidentialité</a>
+            <!--<a class='text-grey' href='cgu.php'>CGU</a><br>
+            <a class='text-grey' href='privacy.php'>Confidentialité</a>-->
+            <a class='text-grey' >CGU</a><br>
+            <a class='text-grey' >Confidentialité</a>
         </div>
         <hr class='picto-hr'/>
         <div class='col-md-3 pb-3'>
