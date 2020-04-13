@@ -3,14 +3,13 @@
     <div class="row">
         <div class='col-md-3 pb-3'>
             <h6>Contactez-nous</h6>
-            <a class='text-grey text-left' href='mailto:contact@dentiio.com'>contact@dentiio.com</a>
+            <a class='text-grey text-center' href='mailto:contact@dentiio.com'>contact@dentiio.com</a>
         </div>
         <hr class='picto-hr'/>
         <div class='col-md-3 pb-3'>
             <h6>Newsletter</h6>
-            <div class="sib-form" style="text-align: center;">
             <div id="sib-form-container" class="sib-form-container">
-                <div id="error-message" class="sib-form-message-panel" style="font-size:16px; text-align:left; color:#661d1d; background-color:#ffeded; border-radius:3px; border-width:px; border-color:#ff4949;max-width:540px; border-width:px;">
+                <div id="error-message" class="sib-form-message-panel" style="font-size:16px; text-align:center;max-width:540px; border-width:px;">
                     <div class="sib-form-message-panel__text sib-form-message-panel__text--center">
                         <svg viewBox="0 0 512 512" class="sib-icon sib-notification__icon">
                             <path d="M256 40c118.621 0 216 96.075 216 216 0 119.291-96.61 216-216 216-119.244 0-216-96.562-216-216 0-119.203 96.602-216 216-216m0-32C119.043 8 8 119.083 8 256c0 136.997 111.043 248 248 248s248-111.003 248-248C504 119.083 392.957 8 256 8zm-11.49 120h22.979c6.823 0 12.274 5.682 11.99 12.5l-7 168c-.268 6.428-5.556 11.5-11.99 11.5h-8.979c-6.433 0-11.722-5.073-11.99-11.5l-7-168c-.283-6.818 5.167-12.5 11.99-12.5zM256 340c-15.464 0-28 12.536-28 28s12.536 28 28 28 28-12.536 28-28-12.536-28-28-28z"
@@ -22,7 +21,7 @@
                     </div>
                 </div>
                 <div></div>
-                <div id="success-message" class="sib-form-message-panel" style="font-size:16px; text-align:left; font-family:&quot;Helvetica&quot;, sans-serif; color:#085229; background-color:#e7faf0; border-radius:3px; border-width:px; border-color:#13ce66;max-width:540px; border-width:px;">
+                <div id="success-message" class="sib-form-message-panel" style="font-size:16px; text-align:center;">
                     <div class="sib-form-message-panel__text sib-form-message-panel__text--center">
                         <svg viewBox="0 0 512 512" class="sib-icon sib-notification__icon">
                             <path d="M256 8C119.033 8 8 119.033 8 256s111.033 248 248 248 248-111.033 248-248S392.967 8 256 8zm0 464c-118.664 0-216-96.055-216-216 0-118.663 96.055-216 216-216 118.664 0 216 96.055 216 216 0 118.663-96.055 216-216 216zm141.63-274.961L217.15 376.071c-4.705 4.667-12.303 4.637-16.97-.068l-85.878-86.572c-4.667-4.705-4.637-12.303.068-16.97l8.52-8.451c4.705-4.667 12.303-4.637 16.97.068l68.976 69.533 163.441-162.13c4.705-4.667 12.303-4.637 16.97.068l8.451 8.52c4.668 4.705 4.637 12.303-.068 16.97z"
@@ -35,11 +34,11 @@
                 </div>
                 <div></div>
                 <div id="sib-container" class="sib-container--large sib-container--vertical" style="text-align:center;">
-                    <form id="sib-form" method="POST" action="https://70e5514b.sibforms.com/serve/MUIEAPJYgx7dfrivFeTzsTO4FhX50P5eVxOmO7Sg4FMrmcApXtEMiTNgFfCp7XElWCoFs0jVUNSWopwQtzRNL7cyuAOsF_2eis8IYhEZK5nUSaE_tk7o9GA4L8m4zwgAr1D5vhd43eyNOoWFAkJCcMuuCRGNn_Rvi9xTatbmrYKifm87EnZm6ZMU9MCWvkTwRX5du8Yfl4i0qLFC"
+                    <form id="sib-form" method="POST" action="https://70e5514b.sibforms.com/serve/MUIEAKmBLGNFj5BeH_-CIQPZdpcfVnn92zuTmVPUiBJqL_pqBMsbsaushQBcnQRHxKYcQ-7zYopu8EUqDSlLexpyTQe1oMR6gy8FVbuiz2Y657bExGAPr1E5jBtPF3oFi0lxQ9_mocF-yeJN7KLVHPHycGN2WZ4g_dJyJSbVinijA_b-p795U5N06anqNq6sjGmaaoh6tZUI6E-b"
                           data-type="subscription">
-                        <div style="padding: 0px;">
+                        <div >
                             <div class="sib-input sib-form-block">
-                                <div class="form__entry entry_block text-center">
+                                <div class="form__entry entry_block">
                                     <div class="form__label-row ">
 
                                         <div class="entry__field">
@@ -47,31 +46,31 @@
                                         </div>
                                     </div>
 
-                                    <label class="entry__error entry__error--primary" style="font-size:16px; text-align:left;">
+                                    <label class="entry__error entry__error--primary" style="font-size:16px; text-align:center;">
                                     </label>
                                 </div>
                             </div>
                         </div>
-                        <div style="padding: 0px;">
+                        <div >
                             <div class="sib-optin sib-form-block">
-                                <div class="form__entry entry_mcq text-center">
-                                    <div class="form__label-row ">
+                                <div class="form__entry entry_mcq">
+                                    <div class="form__label-row text-center">
                                         <div class="entry__choice">
                                             <label>
                                                 <input type="checkbox" class="input_replaced" value="1" id="OPT_IN" name="OPT_IN" />
-                                                <span class="checkbox checkbox_tick_positive"></span><span style="font-size:14px; text-align:center; color:#3C4858; background-color:transparent; border-width:px;"><p>J'accepte de recevoir vos newsletters, les termes et conditions.</p></span>                    </label>
+                                                <span class="checkbox checkbox_tick_positive"></span><span style="font-size:14px; text-align:center;"><p>J'accepte de recevoir vos newsletters, les termes et conditions.</p></span></label>
                                         </div>
                                     </div>
-                                    <label class="entry__error entry__error--primary" style="font-size:16px; text-align:left; color:#661d1d;">
+                                    <label class="entry__error entry__error--primary" style="font-size:16px; text-align:center;">
                                     </label>
                                 </div>
                             </div>
                         </div>
-                        <div style="padding: 0px;">
-                            <div class="g-recaptcha" data-sitekey="6Le7GOkUAAAAALNMgBA6U_6EhqgCJrXqTUY349_3" data-callback="invisibleCaptchaCallback" data-size="invisible" onclick="executeCaptcha"></div>
+                        <div >
+                            <div class="g-recaptcha" data-sitekey="6LcHG-kUAAAAAOytInNXKDSz8MokbiuaSJP3Nxcv" data-callback="invisibleCaptchaCallback" data-size="invisible" onclick="executeCaptcha"></div>
                         </div>
-                        <div style="padding: 0px;">
-                            <div class="sib-form-block text-center" style="text-align: center">
+                        <div >
+                            <div class="sib-form-block" style="text-align: center">
                                 <button class="sib-form-block__button sib-form-block__button-with-loader" style="font-size:16px; text-align:center; font-weight:700; color:#FFFFFF; background-color:#03b6f0; border-radius:3px; border-width:0px;"
                                         form="sib-form" type="submit">
                                     <svg class="icon clickable__icon progress-indicator__icon sib-hide-loader-icon" viewBox="0 0 512 512">
@@ -88,7 +87,6 @@
                     </form>
                 </div>
             </div>
-        </div>
             <!--<div class="input-group">
                 <input type="text" class="form-control" placeholder="votre@email.com" aria-label="" aria-describedby="basic-addon1">
                 <div class="input-group-append">
@@ -165,6 +163,6 @@
 </script>
 <script src="https://sibforms.com/forms/end-form/build/main.js">
 </script>
+
 <script src="https://www.google.com/recaptcha/api.js?hl=en"></script>
-<!-- END - We recommend to place the above code in footer or bottom of your website html  -->
-<!-- End Sendinblue Form -->
+

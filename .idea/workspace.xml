@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16127a67-dccd-4f78-8fb8-861bc3bad13f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/img/photo/team.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/LandingPage.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/LandingPage.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/footer.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/picto/laptop.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/picto/laptop.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/picto/social-care.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/picto/social-care.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/picto/teacher.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/picto/teacher.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/qui-sommes-nous.php" beforeDir="false" afterPath="$PROJECT_DIR$/qui-sommes-nous.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +30,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/qui-sommes-nous.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="795">
+            <state relative-caret-position="303">
               <caret line="53" column="44" selection-start-line="53" selection-start-column="44" selection-end-line="53" selection-end-column="44" />
             </state>
           </provider>
@@ -45,21 +39,18 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/footer.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="74" column="121" selection-start-line="74" selection-start-column="121" selection-end-line="74" selection-end-column="121" />
+            <state relative-caret-position="498">
+              <caret line="57" column="67" lean-forward="true" selection-start-line="57" selection-start-column="67" selection-end-line="57" selection-end-column="67" />
               <folding>
-                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#2;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#4;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#form#0;n#div#4;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#label#0;n#div#0;n#div#0;n#div#0;n#form#0;n#div#4;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#form#0;n#div#4;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#span#1;n#label#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#form#0;n#div#4;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#label#0;n#div#0;n#div#0;n#div#1;n#form#0;n#div#4;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#2;n#form#0;n#div#4;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#3;n#form#0;n#div#4;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#label#1;n#div#0;n#div#0;n#div#1;n#form#0;n#div#4;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#3;n#form#0;n#div#4;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#button#0;n#div#0;n#div#3;n#form#0;n#div#4;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -78,9 +69,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>title2</find>
-      <find>picto</find>
-      <find>hr</find>
       <find>desc</find>
       <find>picto-d</find>
       <find>title-nam</find>
@@ -108,6 +96,9 @@
       <find>rc</find>
       <find>grecaptcha</find>
       <find>ft-</find>
+      <find>form_</find>
+      <find>subs</find>
+      <find>SUB</find>
     </findStrings>
     <replaceStrings>
       <replace>00BCFB</replace>
@@ -268,18 +259,18 @@
       <workItem from="1586333810283" duration="26625000" />
       <workItem from="1586598867421" duration="1019000" />
       <workItem from="1586605281080" duration="6799000" />
-      <workItem from="1586767505416" duration="5851000" />
+      <workItem from="1586767505416" duration="6709000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="77959000" />
+    <option name="totallyTimeSpent" value="78817000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-221" y="-1080" width="1920" height="1080" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14589989" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14589989" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -647,28 +638,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/qui-sommes-nous.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="795">
+        <state relative-caret-position="303">
           <caret line="53" column="44" selection-start-line="53" selection-start-column="44" selection-end-line="53" selection-end-column="44" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/footer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="74" column="121" selection-start-line="74" selection-start-column="121" selection-end-line="74" selection-end-column="121" />
+        <state relative-caret-position="498">
+          <caret line="57" column="67" lean-forward="true" selection-start-line="57" selection-start-column="67" selection-end-line="57" selection-end-column="67" />
           <folding>
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#2;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#4;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#form#0;n#div#4;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#label#0;n#div#0;n#div#0;n#div#0;n#form#0;n#div#4;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#form#0;n#div#4;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#span#1;n#label#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#form#0;n#div#4;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#label#0;n#div#0;n#div#0;n#div#1;n#form#0;n#div#4;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#form#0;n#div#4;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#3;n#form#0;n#div#4;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#label#1;n#div#0;n#div#0;n#div#1;n#form#0;n#div#4;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#3;n#form#0;n#div#4;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#div#0;n#div#3;n#form#0;n#div#4;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
