@@ -83,7 +83,8 @@
         <div class="col-12">
             <h2 class="text-white text-uppercase text-center title2">notre solution</h2>
             <p class="text-white fa-1-2 text-center pt-2 desc">
-                Besoin d’un allié dans votre pratique quotidienne? Dentiio réunit tout le corps médical de la santé bucco-dentaire pour échanger des cas et des protocoles thérapeutiques de façon anonyme et sécurisée.
+                Besoin d’un allié dans votre pratique quotidienne?
+                <br><br>Dentiio réunit tout le corps médical de la santé bucco-dentaire pour échanger des cas et des protocoles thérapeutiques de façon anonyme et sécurisée.
             </p>
         </div>
     </div>
@@ -153,17 +154,6 @@
         <div class="col-md-7">
             <img class="w-100 border-secondary border-lg" alt="Chat on Dentiio application" src="img/screen/discussion.png">
             <p class="text-black-50 fa-0-8">Maquette non définitive</p>
-        </div>
-    </div>
-</div>
-
-<div class="container text-center d-none">
-    <div class="row">
-        <div class="col-md-6 bck-grey bck-grey-hover p-5">
-            <img class="w-75" src="img/photo/student.jpg">
-        </div>
-        <div class="col-md-6 bck-grey bck-grey-hover p-5">
-            <img class="w-75" src="img/photo/professionnel.jpg">
         </div>
     </div>
 </div>

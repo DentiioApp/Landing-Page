@@ -51,12 +51,12 @@
 
                     Avec pour objectif de réunir la médecine dentaire et la technologie, et en collaboration avec un chirurgien-dentiste, leur ambition est de créer un véritable réseau d'échange de connaissances et d'entraide au sein de la profession.<br><br>
 
-                    Le but: devenir un allié de ces professionnels de santé, étudiant où praticiens expérimentés, et contibuer à l'amélioration de la pratique dentaire par l'expérience issue des cas cliniques.
+                    Le but: devenir un allié de ces professionnels de santé, étudiant où praticiens expérimentés, et contribuer à l'amélioration de la pratique dentaire par l'expérience issue des cas cliniques.
 
                 </p>
             </div>
         </div>
-        <div class='col-md-5 pt-5  text-centerpl-4 mt-md-5'>
+        <div class='col-md-5 pt-5  text-center pl-4 mt-md-5'>
             <img class='rounded' width="90%" alt="illustration of dentists caring for a tooth" src="img/photo/team.jpg"/>
         </div>
     </div>
@@ -66,7 +66,7 @@
 <div class='container bck-grey picto-bloc px-3 pt-2 pb-3'>
     <div class="row pb-md-5">
         <div class="col-12 col-md-12 col-lg-12 p-3 mt-2">
-            <h2 class="text-grey text-uppercase text-center title2 pb-3">nos Objectifs</h2>
+            <h2 class="text-grey text-uppercase text-center title2 pb-3">Nos Objectifs</h2>
         </div>
         <div class='item33 text-center'>
             <img class='picto' alt="validate your diagnosis" src="img/picto/laptop.png"/>
