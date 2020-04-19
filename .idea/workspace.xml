@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16127a67-dccd-4f78-8fb8-861bc3bad13f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/LandingPage.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/LandingPage.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,36 +18,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="236">
-              <caret line="158" column="6" lean-forward="true" selection-start-line="158" selection-start-column="6" selection-end-line="158" selection-end-column="6" />
+            <state relative-caret-position="318">
+              <caret line="68" column="60" selection-start-line="68" selection-start-column="60" selection-end-line="68" selection-end-column="60" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/bootstrap4/bootstrap.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="260" column="17" lean-forward="true" selection-start-line="260" selection-start-column="17" selection-end-line="260" selection-end-column="17" />
-              <folding>
-                <element signature="e#36724#36979#2" expanded="true" />
-                <element signature="e#37651#37825#1" expanded="true" />
-                <element signature="e#37867#38122#1" expanded="true" />
-                <element signature="e#40739#41053#2" expanded="true" />
-                <element signature="e#41737#41911#1" expanded="true" />
-                <element signature="e#41953#42267#1" expanded="true" />
-                <element signature="e#76085#76293#2" expanded="true" />
-                <element signature="e#76548#76705#2" expanded="true" />
-                <element signature="e#77158#77314#2" expanded="true" />
-                <element signature="e#79017#79191#1" expanded="true" />
-                <element signature="e#95743#95996#2" expanded="true" />
-                <element signature="e#97008#97267#2" expanded="true" />
-                <element signature="e#133357#133553#2" expanded="true" />
-                <element signature="e#133608#133805#2" expanded="true" />
-              </folding>
+            <state relative-caret-position="264">
+              <caret line="264" column="22" lean-forward="true" selection-start-line="264" selection-start-column="22" selection-end-line="264" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/header.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="185">
+              <caret line="32" column="12" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -54,8 +48,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/qui-sommes-nous.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="689">
-              <caret line="64" column="31" lean-forward="true" selection-start-line="64" selection-start-column="31" selection-end-line="64" selection-end-column="31" />
+            <state relative-caret-position="960">
+              <caret line="64" column="31" selection-start-line="64" selection-start-column="31" selection-end-line="64" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -64,7 +58,7 @@
         <entry file="file://$PROJECT_DIR$/css/form-button.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="810">
-              <caret line="54" column="37" lean-forward="true" selection-start-line="54" selection-start-column="37" selection-end-line="54" selection-end-column="37" />
+              <caret line="54" column="37" selection-start-line="54" selection-start-column="37" selection-end-line="54" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -90,8 +84,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/LandingPage.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1500">
-              <caret line="100" column="6" selection-start-line="100" selection-start-column="6" selection-end-line="100" selection-end-column="6" />
+            <state relative-caret-position="453">
+              <caret line="384" column="13" lean-forward="true" selection-start-line="384" selection-start-column="13" selection-end-line="384" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -171,17 +165,17 @@
         <option value="$PROJECT_DIR$/css/list.css" />
         <option value="$PROJECT_DIR$/cgu.php" />
         <option value="$PROJECT_DIR$/privacy.php" />
-        <option value="$PROJECT_DIR$/header.php" />
         <option value="$USER_HOME$/Documents/Dentiio/newsletter/mail inscription newsletter.html" />
         <option value="$USER_HOME$/Documents/DEV/InstaPy/instapy-docker/docker-compose/docker_quickstart.py" />
         <option value="$USER_HOME$/Desktop/docker_quickstart.py" />
         <option value="$PROJECT_DIR$/form-newsletter.php" />
         <option value="$PROJECT_DIR$/footer.php" />
-        <option value="$PROJECT_DIR$/css/LandingPage.css" />
         <option value="$PROJECT_DIR$/css/form-button.css" />
         <option value="$PROJECT_DIR$/qui-sommes-nous.php" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/css/bootstrap4/bootstrap.css" />
+        <option value="$PROJECT_DIR$/header.php" />
+        <option value="$PROJECT_DIR$/css/LandingPage.css" />
+        <option value="$PROJECT_DIR$/index.php" />
       </list>
     </option>
   </component>
@@ -213,29 +207,6 @@
               <item name="Dentiio-Landing-Page" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
               <item name="bootstrap4" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Dentiio-Landing-Page" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Dentiio-Landing-Page" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Dentiio-Landing-Page" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Dentiio-Landing-Page" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-              <item name="photo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Dentiio-Landing-Page" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Dentiio-Landing-Page" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-              <item name="picto" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Dentiio-Landing-Page" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Dentiio-Landing-Page" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-              <item name="screen" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -302,16 +273,18 @@
       <workItem from="1586767505416" duration="15178000" />
       <workItem from="1586970617600" duration="252000" />
       <workItem from="1587031315871" duration="1667000" />
+      <workItem from="1587289857633" duration="1471000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="89205000" />
+    <option name="totallyTimeSpent" value="90676000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-23" y="-718" width="1440" height="900" extended-state="0" />
+    <frame x="-312" y="-1080" width="1920" height="1080" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1502146" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11341853" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -326,7 +299,7 @@
       <window_info anchor="bottom" id="GraphQL" order="9" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
       <window_info anchor="bottom" id="RNConsole" order="11" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="12" visible="true" weight="0.43440595" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="12" visible="true" weight="0.35643566" />
       <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -418,13 +391,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="21" lean-forward="true" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -633,6 +599,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/qui-sommes-nous.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="960">
+          <caret line="64" column="31" selection-start-line="64" selection-start-column="31" selection-end-line="64" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/form-button.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="54" column="37" selection-start-line="54" selection-start-column="37" selection-end-line="54" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/footer.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -647,54 +627,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap4/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="264" column="22" lean-forward="true" selection-start-line="264" selection-start-column="22" selection-end-line="264" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="32" column="12" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/LandingPage.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1500">
-          <caret line="100" column="6" selection-start-line="100" selection-start-column="6" selection-end-line="100" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/form-button.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="810">
-          <caret line="54" column="37" lean-forward="true" selection-start-line="54" selection-start-column="37" selection-end-line="54" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/qui-sommes-nous.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="689">
-          <caret line="64" column="31" lean-forward="true" selection-start-line="64" selection-start-column="31" selection-end-line="64" selection-end-column="31" />
+        <state relative-caret-position="453">
+          <caret line="384" column="13" lean-forward="true" selection-start-line="384" selection-start-column="13" selection-end-line="384" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
-          <caret line="158" column="6" lean-forward="true" selection-start-line="158" selection-start-column="6" selection-end-line="158" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/bootstrap4/bootstrap.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="260" column="17" lean-forward="true" selection-start-line="260" selection-start-column="17" selection-end-line="260" selection-end-column="17" />
-          <folding>
-            <element signature="e#36724#36979#2" expanded="true" />
-            <element signature="e#37651#37825#1" expanded="true" />
-            <element signature="e#37867#38122#1" expanded="true" />
-            <element signature="e#40739#41053#2" expanded="true" />
-            <element signature="e#41737#41911#1" expanded="true" />
-            <element signature="e#41953#42267#1" expanded="true" />
-            <element signature="e#76085#76293#2" expanded="true" />
-            <element signature="e#76548#76705#2" expanded="true" />
-            <element signature="e#77158#77314#2" expanded="true" />
-            <element signature="e#79017#79191#1" expanded="true" />
-            <element signature="e#95743#95996#2" expanded="true" />
-            <element signature="e#97008#97267#2" expanded="true" />
-            <element signature="e#133357#133553#2" expanded="true" />
-            <element signature="e#133608#133805#2" expanded="true" />
-          </folding>
+        <state relative-caret-position="318">
+          <caret line="68" column="60" selection-start-line="68" selection-start-column="60" selection-end-line="68" selection-end-column="60" />
         </state>
       </provider>
     </entry>

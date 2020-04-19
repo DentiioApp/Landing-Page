@@ -385,4 +385,8 @@ color: #585858!important;
 opacity: 0.6;
 }
 
+.z-100{
+  z-index: 100;
+}
+
 
