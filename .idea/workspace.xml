@@ -3,23 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="16127a67-dccd-4f78-8fb8-861bc3bad13f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap4/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap4/bootstrap.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/form-button.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/form-button.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/illus.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/illus.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/illusSimple.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/illusordi.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/illusordi.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/logo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/logoblue.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/logoblue.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/photo/dentist-photo.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/photo/dentist-photo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/photo/professionnel.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/photo/student.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/photo/team.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/photo/team.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/screen/details.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/screen/details.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/screen/discussion.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/screen/discussion.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/screen/home.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/screen/search.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/screen/search.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/qui-sommes-nous.php" beforeDir="false" afterPath="$PROJECT_DIR$/qui-sommes-nous.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -46,8 +29,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/bootstrap4/bootstrap.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="205">
-              <caret line="227" lean-forward="true" selection-start-line="227" selection-end-line="227" />
+            <state relative-caret-position="204">
+              <caret line="260" column="17" lean-forward="true" selection-start-line="260" selection-start-column="17" selection-end-line="260" selection-end-column="17" />
               <folding>
                 <element signature="e#36724#36979#2" expanded="true" />
                 <element signature="e#37651#37825#1" expanded="true" />
@@ -117,7 +100,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>atou</find>
       <find>button</find>
       <find>www.medpics.fr</find>
       <find>medpics</find>
@@ -147,6 +129,7 @@
       <find>7</find>
       <find>communaut</find>
       <find>student</find>
+      <find>-webkit-focus-ring-color</find>
     </findStrings>
     <replaceStrings>
       <replace>00BCFB</replace>
@@ -159,6 +142,7 @@
       <replace>&lt;b class=&quot;text-grey&quot;&gt;</replace>
       <replace>DENTIIO</replace>
       <replace>bck-grey bck-grey-hover</replace>
+      <replace />
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -317,18 +301,17 @@
       <workItem from="1586605281080" duration="6799000" />
       <workItem from="1586767505416" duration="15178000" />
       <workItem from="1586970617600" duration="252000" />
-      <workItem from="1587031315871" duration="1100000" />
+      <workItem from="1587031315871" duration="1667000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="88638000" />
+    <option name="totallyTimeSpent" value="89205000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-312" y="-1080" width="1920" height="1080" extended-state="6" />
-    <editor active="true" />
+    <frame x="-23" y="-718" width="1440" height="900" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.111821085" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1502146" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -343,7 +326,7 @@
       <window_info anchor="bottom" id="GraphQL" order="9" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
       <window_info anchor="bottom" id="RNConsole" order="11" />
-      <window_info anchor="bottom" id="Terminal" order="12" weight="0.34752476" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="12" visible="true" weight="0.43440595" />
       <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -694,8 +677,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/bootstrap4/bootstrap.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="227" lean-forward="true" selection-start-line="227" selection-end-line="227" />
+        <state relative-caret-position="204">
+          <caret line="260" column="17" lean-forward="true" selection-start-line="260" selection-start-column="17" selection-end-line="260" selection-end-column="17" />
           <folding>
             <element signature="e#36724#36979#2" expanded="true" />
             <element signature="e#37651#37825#1" expanded="true" />
