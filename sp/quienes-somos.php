@@ -16,7 +16,7 @@
             </div>
         </div>
         <div class='col-md-5 pt-5  text-center pl-4 mt-md-5'>
-            <img class='rounded' width="90%" alt="illustration of dentists caring for a tooth" src="img/photo/team.jpg"/>
+            <img class='rounded' width="90%" alt="illustration of dentists caring for a tooth" src="../img/photo/team.jpg"/>
         </div>
     </div>
 </div>
@@ -28,17 +28,17 @@
             <h2 class="text-grey text-uppercase text-center title2 pb-3">Nos Objectifs</h2>
         </div>
         <div class='item33 text-center'>
-            <img class='picto' alt="validate your diagnosis" src="img/picto/laptop.png"/>
+            <img class='picto' alt="validate your diagnosis" src="../img/picto/laptop.png"/>
             <p class='desc text-center text-black-50 px-md-4 pt-3'>Utiliser la technologie afin de créer un réseau d’entraide entre professionnels de la santé bucco-dentaire.</p>
         </div>
         <div class='item33 text-center'>
             <hr class='picto-hr'/>
-            <img class='picto' alt="patient" src="img/picto/teacher.png"/>
+            <img class='picto' alt="patient" src="../img/picto/teacher.png"/>
             <p class='desc text-center text-black-50 px-md-4 pt-3'>Donner aux chirurgiens-dentistes le moyen de livrer leurs expériences pratiques et leurs conseils à leurs confrères.</p>
         </div>
         <div class='item33 text-center'>
             <hr class='picto-hr'/>
-            <img class='picto' alt="community" src="img/picto/social-care.png"/>
+            <img class='picto' alt="community" src="../img/picto/social-care.png"/>
             <p class='desc text-center text-black-50 px-md-4 pt-3'>Renforcer la solidarité médico-dentaire à travers le partage d’informations.</p>
         </div>
     </div>
@@ -47,7 +47,7 @@
 <div class='container mt-4 mb-5'>
     <div class="row">
         <div class='col-md-6 illusbloc ml-n5'>
-            <img class='illus illusordi' alt="programming illustration" src="img/illusDev.png"/>
+            <img class='illus illusordi' alt="programming illustration" src="../img/illusDev.png"/>
         </div>
         <div class='col-md-6'>
             <div class='pt-4 text-center'>

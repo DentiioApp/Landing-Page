@@ -24,7 +24,7 @@
             </div>
         </div>
         <div class='col-md-6 illusbloc'>
-            <img class='illus' alt="Dentiio application screnn" src="img/illusordi.png"/>
+            <img class='illus' alt="Dentiio application screnn" src="../img/illusordi.png"/>
         </div>
     </div>
 </div>
@@ -35,7 +35,7 @@
     <div class="row">
         <div class="col-0 col-md-1 col-lg-1"></div>
         <div class="col-12 col-md-10 col-lg-10">
-            <img class="mw-100 z-100 mt-n5 mb-n5 w-100 position-relative" alt="dentist team" src="img/photo/dentist-photo.png">
+            <img class="mw-100 z-100 mt-n5 mb-n5 w-100 position-relative" alt="dentist team" src="../img/photo/dentist-photo.png">
             <div class="caption bg-white09 z-100">
                 <h2 class="text-primary text-uppercase text-left p-2 title2">notre solution</h2>
                 <p class="text-grey fa-1-2 p-2 desc">
@@ -68,19 +68,19 @@
             <h2 class="text-grey text-uppercase text-center title2">nos atouts</h2>
         </div>
         <div class='item33 text-center'>
-            <img class='picto' alt="validate your diagnosis" src="img/picto/tooth.png"/>
+            <img class='picto' alt="validate your diagnosis" src="../img/picto/tooth.png"/>
             <h2 class='picto-title text-grey'>Validez votre diagnostic</h2>
             <p class='desc fa-1-2 text-center text-black-50 px-md-4'>Dialoguez avec d’autres praticiens lors de vos prises de décisions grâce à notre plateforme.</p>
         </div>
         <div class='item33 text-center'>
             <hr class='picto-hr'/>
-            <img class='picto' alt="Target your priority: the patient" src="img/picto/dentist.png"/>
+            <img class='picto' alt="Target your priority: the patient" src="../img/picto/dentist.png"/>
             <h2 class='picto-title text-grey'>Ciblez votre priorité: le patient</h2>
             <p class='desc fa-1-2 text-center text-black-50 px-md-4'>Choisissez la meilleure thérapeutique à adopter pour votre patient et diversifiez vos méthodes. </p>
         </div>
         <div class='item33 text-center'>
             <hr class='picto-hr'/>
-            <img class='picto' alt="Become an actor in your community" src="img/picto/teamwork.png"/>
+            <img class='picto' alt="Become an actor in your community" src="../img/picto/teamwork.png"/>
             <h2 class='picto-title text-grey'>Devenez acteur de votre communauté</h2>
             <p class='desc fa-1-2 text-center text-black-50 px-md-4'>Démarquez vous en publiant vos cas, et faites partie d’une communauté d’entraide.</p>
         </div>
@@ -112,7 +112,7 @@
             </ol>
         </div>
         <div class="col-md-7">
-            <img class="w-100 border-primary border-lg" alt="Home of application" src="img/screen/search.png">
+            <img class="w-100 border-primary border-lg" alt="Home of application" src="../img/screen/search.png">
             <p class="text-black-50 fa-0-8">Maquette non définitive</p>
         </div>
     </div>
@@ -136,7 +136,7 @@
                 </ul>
         </div>
         <div class="col-md-7 order-md-first">
-            <img class="w-100 border-primary border-lg" alt="Share your diagnosis with Dentiio application" src="img/screen/details.png">
+            <img class="w-100 border-primary border-lg" alt="Share your diagnosis with Dentiio application" src="../img/screen/details.png">
             <p class="text-black-50 fa-0-8">Maquette non définitive</p>
         </div>
     </div>
@@ -149,7 +149,7 @@
                 </p>
         </div>
         <div class="col-md-7">
-            <img class="w-100 border-secondary border-lg" alt="Chat on Dentiio application" src="img/screen/discussion.png">
+            <img class="w-100 border-secondary border-lg" alt="Chat on Dentiio application" src="../img/screen/discussion.png">
             <p class="text-black-50 fa-0-8">Maquette non définitive</p>
         </div>
     </div>
@@ -178,7 +178,7 @@
 <div class='container mt-4'>
     <div class="row">
         <div class='col-md-6 illusbloc'>
-            <img class='illus illusordi' alt="Dentists treating a tooth" src="img/illus.png"/>
+            <img class='illus illusordi' alt="Dentists treating a tooth" src="../img/illus.png"/>
         </div>
         <div class='col-md-6'>
             <div class='pt-4 text-center'>

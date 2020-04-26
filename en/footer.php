@@ -1,5 +1,3 @@
-
-
 <!--FOOTER-->
 <div class='container footer text-center bg-white text-grey px-5 pt-5'>
     <div class="row">
@@ -11,7 +9,7 @@
         <div class='col-md-4 p-0 pb-3'>
             <h6>Newsletter</h6>
             <!--NEWSLETTER FORM-->
-            <?php include_once "form-newsletter.php"?>
+            <?php include_once "../form-newsletter.php"?>
             <!-- END NEWSLETTER FORM-->
         </div>
         <hr class='picto-hr'/>
@@ -43,15 +41,15 @@
 </body>
 <footer>
     <!-- jQuery -->
-    <script type="text/javascript" src="js/jquery.min.js"></script>
+    <script type="text/javascript" src="../js/jquery.min.js"></script>
     <!-- Bootstrap tooltips -->
-    <script type="text/javascript" src="js/popper.min.js"></script>
+    <script type="text/javascript" src="../js/popper.min.js"></script>
     <!-- Bootstrap core JavaScript -->
-    <script type="text/javascript" src="js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="../js/bootstrap.min.js"></script>
     <!-- MDB core JavaScript -->
-    <script type="text/javascript" src="js/mdb.min.js"></script>
+    <script type="text/javascript" src="../js/mdb.min.js"></script>
     <!-- GOOLGLE ANALITYCS -->
-    <script type="text/javascript" src="js/tracking.js"></script>
+    <script type="text/javascript" src="../js/tracking.js"></script>
 </footer>
 </html>
 
@@ -68,8 +66,6 @@
     window.REQUIRED_ERROR_MESSAGE = " Cette case ne peut pas être laissée vide. ";
 
     window.GENERIC_INVALID_MESSAGE = " Les informations fournies sont invalides. Veuillez revoir le format du champ et réessayer.";
-
-
 
 
     window.translation = {
