@@ -2,7 +2,7 @@
 <div class='container footer text-center bg-white text-grey px-5 pt-5'>
     <div class="row">
         <div class='col-md-4 pb-3 text-center'>
-            <h6>Contactez-nous</h6>
+            <h6>Contactenos</h6>
             <a class='text-primary text-center' href='mailto:contact@dentiio.com'>contact@dentiio.com</a>
         </div>
         <hr class='picto-hr'/>
@@ -14,7 +14,7 @@
         </div>
         <hr class='picto-hr'/>
         <div class='col-md-4 pb-3'>
-            <h6>Suivez-nous</h6>
+            <h6>Siganos</h6>
             <a href='https://www.facebook.com/dentiio/' class="rs" target='_blank' rel="noopener noreferrer">
                 <i class="fa fa-facebook-f fa-size"></i>
             </a>

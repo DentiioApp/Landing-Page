@@ -2,28 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16127a67-dccd-4f78-8fb8-861bc3bad13f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/cookies.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/cookies.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/footer.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/header.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/en/who-we-are.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/flag/es.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/flag/fr.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/flag/uk.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/illusDev.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/tracking.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sp/cookies.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sp/footer.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sp/header.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sp/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sp/quienes-somos.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/LandingPage.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/LandingPage.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/footer.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/header.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/qui-sommes-nous.php" beforeDir="false" afterPath="$PROJECT_DIR$/qui-sommes-nous.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sp/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/sp/footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sp/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/sp/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sp/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/sp/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sp/quienes-somos.php" beforeDir="false" afterPath="$PROJECT_DIR$/sp/conocenos.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,28 +22,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/footer.php">
+        <entry file="file://$PROJECT_DIR$/sp/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="780">
-              <caret line="52" column="1" selection-start-line="52" selection-start-column="1" selection-end-line="53" selection-end-column="65" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/sp/footer.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="42" column="19" lean-forward="true" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="19" />
+            <state relative-caret-position="543">
+              <caret line="197" column="16" selection-start-line="197" selection-start-column="16" selection-end-line="197" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/en/footer.php">
+        <entry file="file://$PROJECT_DIR$/sp/footer.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="765">
-              <caret line="51" column="43" selection-start-line="51" selection-start-column="43" selection-end-line="51" selection-end-column="43" />
+            <state relative-caret-position="240">
+              <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sp/conocenos.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="492">
+              <caret line="38" column="175" selection-start-line="38" selection-start-column="175" selection-end-line="38" selection-end-column="175" />
             </state>
           </provider>
         </entry>
@@ -159,16 +142,18 @@
         <option value="$PROJECT_DIR$/footer.php" />
         <option value="$PROJECT_DIR$/js/tracking.js" />
         <option value="$PROJECT_DIR$/header.php" />
-        <option value="$PROJECT_DIR$/sp/header.php" />
         <option value="$PROJECT_DIR$/en/header.php" />
         <option value="$PROJECT_DIR$/sp/cookies.php" />
         <option value="$PROJECT_DIR$/en/cookies.php" />
         <option value="$PROJECT_DIR$/en/footer.php" />
+        <option value="$PROJECT_DIR$/sp/header.php" />
+        <option value="$PROJECT_DIR$/sp/index.php" />
         <option value="$PROJECT_DIR$/sp/footer.php" />
+        <option value="$PROJECT_DIR$/sp/conocenos.php" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
@@ -283,16 +268,18 @@
       <workItem from="1587472865541" duration="17625000" />
       <workItem from="1587627039208" duration="94000" />
       <workItem from="1587627158559" duration="843000" />
+      <workItem from="1587886883371" duration="981000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="109706000" />
+    <option name="totallyTimeSpent" value="110687000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15808298" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1602289" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -307,7 +294,7 @@
       <window_info anchor="bottom" id="GraphQL" order="9" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
       <window_info anchor="bottom" id="RNConsole" order="11" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="12" visible="true" weight="0.3554217" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.3554217" />
       <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -659,16 +646,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sp/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sp/quienes-somos.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/LandingPage.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="828">
@@ -687,20 +664,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="858">
           <caret line="67" column="13" selection-start-line="67" selection-end-line="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sp/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="858">
-          <caret line="63" column="17" lean-forward="true" selection-start-line="63" selection-start-column="17" selection-end-line="63" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sp/cookies.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="96" selection-start-line="8" selection-start-column="96" selection-end-line="8" selection-end-column="96" />
         </state>
       </provider>
     </entry>
@@ -739,10 +702,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/sp/cookies.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="96" selection-start-line="8" selection-start-column="96" selection-end-line="8" selection-end-column="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sp/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="573">
+          <caret line="55" column="21" lean-forward="true" selection-start-line="55" selection-start-column="21" selection-end-line="55" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sp/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="543">
+          <caret line="197" column="16" selection-start-line="197" selection-start-column="16" selection-end-line="197" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/sp/footer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="42" column="19" lean-forward="true" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="19" />
+        <state relative-caret-position="240">
+          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sp/conocenos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="492">
+          <caret line="38" column="175" selection-start-line="38" selection-start-column="175" selection-end-line="38" selection-end-column="175" />
         </state>
       </provider>
     </entry>
