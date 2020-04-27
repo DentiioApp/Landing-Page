@@ -394,10 +394,11 @@ opacity: 0.6;
 }
 
 .cookie-notice-container{
-  color: #fff;
+  border: 1px solid #BAE6FA;
+  color: gray;
   position: fixed;
   bottom: 0;
-  background-color: gray;
+  background-color: #fff;
   z-index: 10000;
   padding: 10px;
   width: 100%;
