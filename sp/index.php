@@ -25,7 +25,7 @@
             </div>
         </div>
         <div class='col-md-6 illusbloc'>
-            <img class='illus' alt="Dentiio application screnn" src="../img/illusordi.png"/>
+            <img class='illus' alt="Dentiio application screnn" src="../img/sp/illusordiesp.png"/>
         </div>
     </div>
 </div>
@@ -68,7 +68,7 @@
 <div class='container bck-grey bck-grey-hover picto-bloc px-3 pt-5 pb-md-5 pb-2'>
     <div class="row pb-md-5">
         <div class="col-12 col-md-12 col-lg-12 p-3 mt-md-5 ">
-            <h2 class="text-grey text-uppercase text-center title2">Nuestras ventajas</h2>
+            <h2 class="text-grey text-uppercase text-center mt-lg-4 title2">Nuestras ventajas</h2>
         </div>
         <div class='item33 text-center'>
             <img class='picto' alt="validate your diagnosis" src="../img/picto/tooth.png"/>
@@ -93,7 +93,7 @@
 
 
 <!--HOW-->
-<h2 class="text-grey text-uppercase title2 text-center mt-md-5 pt-3">Las bases</h2>
+<h2 class="text-grey text-uppercase title2 text-center mt-md-5 pt-3">El principio</h2>
 <div class='container bg-white pt-md-5 mt-md-3'>
     <div class="row pb-5 px-md-4">
         <div class="col-md-5">
@@ -116,7 +116,7 @@
             </ol>
         </div>
         <div class="col-md-7">
-            <img class="w-100 border-primary border-lg" alt="Home of application" src="../img/screen/search.png">
+            <img class="w-100 border-primary border-lg" alt="Home of application" src="../img/sp/search.png">
             <p class="text-black-50 fa-0-8">Modelos no finales</p>
         </div>
     </div>
@@ -140,7 +140,7 @@
                 </ul>
         </div>
         <div class="col-md-7 order-md-first">
-            <img class="w-100 border-primary border-lg" alt="Share your diagnosis with Dentiio application" src="../img/screen/details.png">
+            <img class="w-100 border-primary border-lg" alt="Share your diagnosis with Dentiio application" src="../img/sp/detail.png">
             <p class="text-black-50 fa-0-8">Modelos no finales</p>
         </div>
     </div>
@@ -153,7 +153,7 @@
                 </p>
         </div>
         <div class="col-md-7">
-            <img class="w-100 border-secondary border-lg" alt="Chat on Dentiio application" src="../img/screen/discussion.png">
+            <img class="w-100 border-secondary border-lg" alt="Chat on Dentiio application" src="../img/sp/discussion.png">
             <p class="text-black-50 fa-0-8">Modelos no finales</p>
         </div>
     </div>
