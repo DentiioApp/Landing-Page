@@ -194,7 +194,7 @@
                 </div>
                 <p class="text-black-50 pt-3 px-md-5 mt-3  text-center fa-1-2">Nuestra plataforma aún está en desarrollo. Estará próximamente disponible en la web, móvil y tablet.<br><br><br>Para ser el primero informado de la actualidad de Dentiio y ayudarnos a satisfacer vuestras necesidades.</p>
                 <p class="text-grey pt-3 mt-1 px-md-5 text-center font-weight-bold ft-s2">Rellene el formulario aquí debajo:</p>
-                <a href="https://docs.google.com/forms/d/e/1FAIpQLSfS_jq9N_vC1eYy48ZX8I3hqyO7R4be91k5Vi_2BUymXkM-eg/viewform?usp=sf_link" target='_blank' rel="noopener noreferrer" class="nav-item button buttonhome border-0 mt-5 mt-md-5 py-3" style="width: 400px; font-size: 1.3rem"><span class="gradient"></span>Contestar al formulario
+                <a href="https://forms.gle/DAGJSzfLDJCPqcjA7" target='_blank' rel="noopener noreferrer" class="nav-item button buttonhome border-0 mt-5 mt-md-5 py-3" style="width: 400px; font-size: 1.3rem"><span class="gradient"></span>Contestar al formulario
                 </a>
             </div>
         </div>

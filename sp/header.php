@@ -44,7 +44,7 @@
                 <li class="nav-item">
                     <a class="nav-item nav-link <?php echo ($url=="somos.php"? "active" : "nav-hover" )?>" href="conocenos.php">Conócenos</a>
                 </li>
-                <li class="nav-item">
+                <li class="nav-item d-none">
                     <a href="../en/index.php" class="nav-item nav-link">
                         <img src="../img/flag/uk.png" alt="united kingdom flag" width="15px" height="auto" />
                     </a>
@@ -56,7 +56,7 @@
                 </li>
             </ul>
             <span>
-                <a href="https://docs.google.com/forms/d/e/1FAIpQLSfS_jq9N_vC1eYy48ZX8I3hqyO7R4be91k5Vi_2BUymXkM-eg/viewform?usp=sf_link" target='_blank' rel="noopener noreferrer" class="nav-item button buttonhome border-0"><span class="gradient"></span>
+                <a href="https://forms.gle/DAGJSzfLDJCPqcjA7" target='_blank' rel="noopener noreferrer" class="nav-item button buttonhome border-0"><span class="gradient"></span>
                     Rellenar el formulario
                 </a>
             </span>

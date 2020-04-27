@@ -47,7 +47,7 @@
                     <a class="nav-item nav-link <?php echo ($url=="-nous.php"? "active" : "nav-hover" )?>" href="qui-sommes-nous.php">Qui sommes-nous ?</a>
                 </li>
                 <li class="nav-item">
-                    <a href="en/index.php" class="nav-item nav-link">
+                    <a href="en/index.php" class="nav-item nav-link d-none">
                         <img src="img/flag/uk.png" alt="united kingdom flag"  width="15px" height="auto" />
                     </a>
                 </li>

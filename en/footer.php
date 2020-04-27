@@ -9,7 +9,7 @@
         <div class='col-md-4 p-0 pb-3'>
             <h6>Newsletter</h6>
             <!--NEWSLETTER FORM-->
-            <?php include_once "../form-newsletter.php"?>
+            <?php include_once "form-newsletter.php"?>
             <!-- END NEWSLETTER FORM-->
         </div>
         <hr class='picto-hr'/>
@@ -61,12 +61,11 @@
 <script>
     window.REQUIRED_CODE_ERROR_MESSAGE = 'Please choose a country code';
 
-    window.EMAIL_INVALID_MESSAGE = window.SMS_INVALID_MESSAGE = " Les informations fournies sont invalides. Veuillez revoir le format du champ et réessayer.";
+    window.EMAIL_INVALID_MESSAGE = window.SMS_INVALID_MESSAGE = " The information provided is invalid. Please review the format of the field and try again.";
 
-    window.REQUIRED_ERROR_MESSAGE = " Cette case ne peut pas être laissée vide. ";
+    window.REQUIRED_ERROR_MESSAGE = "This box cannot be left empty. ";
 
-    window.GENERIC_INVALID_MESSAGE = " Les informations fournies sont invalides. Veuillez revoir le format du champ et réessayer.";
-
+    window.GENERIC_INVALID_MESSAGE = " The information provided is invalid. Please review the format of the field and try again.";
 
     window.translation = {
         common: {

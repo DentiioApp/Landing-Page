@@ -9,7 +9,7 @@
         <div class='col-md-4 p-0 pb-3'>
             <h6>Newsletter</h6>
             <!--NEWSLETTER FORM-->
-            <?php include_once "../form-newsletter.php"?>
+            <?php include_once "form-newsletter.php"?>
             <!-- END NEWSLETTER FORM-->
         </div>
         <hr class='picto-hr'/>
@@ -33,7 +33,7 @@
             <a class='text-grey' href='privacy.php'>Confidentialité</a>-->
             <a class='text-black-50 ft-s0-7 nav-hover' >CGU</a>
             <a class='text-black-50 ft-s0-7 nav-hover' >Confidentialité</a>
-            <p class='text-black-50 ft-s0-7'>Copyright© Dentiio - Tous droits réservés</p>
+            <p class='text-black-50 ft-s0-7'>Copyright© Dentiio - Todos los derechos reservados</p>
         </div>
     </div>
 </div>
@@ -61,11 +61,11 @@
 <script>
     window.REQUIRED_CODE_ERROR_MESSAGE = 'Please choose a country code';
 
-    window.EMAIL_INVALID_MESSAGE = window.SMS_INVALID_MESSAGE = " Les informations fournies sont invalides. Veuillez revoir le format du champ et réessayer.";
+    window.EMAIL_INVALID_MESSAGE = window.SMS_INVALID_MESSAGE = " La información proporcionada no es válida. Revise el formato del campo e intente nuevamente.";
 
-    window.REQUIRED_ERROR_MESSAGE = " Cette case ne peut pas être laissée vide. ";
+    window.REQUIRED_ERROR_MESSAGE = " Este cuadro no puede dejarse vacío.";
 
-    window.GENERIC_INVALID_MESSAGE = " Les informations fournies sont invalides. Veuillez revoir le format du champ et réessayer.";
+    window.GENERIC_INVALID_MESSAGE = " Su registro no se pudo guardar. Inténtalo de nuevo.";
 
 
     window.translation = {
