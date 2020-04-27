@@ -2,7 +2,7 @@
 <div class='container footer text-center bg-white text-grey px-5 pt-5'>
     <div class="row">
         <div class='col-md-4 pb-3 text-center'>
-            <h6>Contactenos</h6>
+            <h6>Contáctenos</h6>
             <a class='text-primary text-center' href='mailto:contact@dentiio.com'>contact@dentiio.com</a>
         </div>
         <hr class='picto-hr'/>
@@ -61,11 +61,11 @@
 <script>
     window.REQUIRED_CODE_ERROR_MESSAGE = 'Please choose a country code';
 
-    window.EMAIL_INVALID_MESSAGE = window.SMS_INVALID_MESSAGE = " La información proporcionada no es válida. Revise el formato del campo e intente nuevamente.";
+    window.EMAIL_INVALID_MESSAGE = window.SMS_INVALID_MESSAGE = " La información proporcionada no es válida. Revise el formato del campo e intentelo nuevamente.";
 
     window.REQUIRED_ERROR_MESSAGE = " Este cuadro no puede dejarse vacío.";
 
-    window.GENERIC_INVALID_MESSAGE = " Su registro no se pudo guardar. Inténtalo de nuevo.";
+    window.GENERIC_INVALID_MESSAGE = " Su registro no se pudo guardar. Inténtelo de nuevo.";
 
 
     window.translation = {

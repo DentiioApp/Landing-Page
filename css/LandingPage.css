@@ -369,6 +369,10 @@ font-size: 30px!important;
 padding: 5px;
 }
 
+.fa-1{
+  font-size: 1rem!important;
+}
+
 .form-check-input {
 position: absolute;
 margin-top: 0!important;
@@ -393,7 +397,7 @@ opacity: 0.6;
   color: #fff;
   position: fixed;
   bottom: 0;
-  background-color: #03B6F0;
+  background-color: gray;
   z-index: 10000;
   padding: 10px;
   width: 100%;

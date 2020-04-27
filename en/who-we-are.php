@@ -54,8 +54,23 @@
                 <div class="mt-3 pt-md-5">
                     <h2 class="text-primary text-uppercase text-center  title2">OPEN SOURCE</h2>
                 </div>
-                <p class="text-black-50 pt-3 px-md-5 mt-3  text-center fa-1-2">Notre plateforme est en développement. Elle sera prochainement disponible sur web, mobile et tablette.<br><br><br>Pour être le premier informé de toute notre actualité et participer à la construction de Dentiio.</p>
-                <p class="text-grey pt-3 mt-1 px-md-5 text-center font-weight-bold ft-s2"> Remplissez le formulaire en cliquant ci-dessous:</p>
+                <p class="text-grey pt-3 px-md-5 mt-3 text-left fa-1-2">Dentiio est une application web open-source, l'accès au code source et la création de travaux dérivés est mis à disposition du public.<br></p>
+                <ul class="bloc-list mt-2 text-left">
+                    <li class="text-list mt-3 fa-1">
+                        Tout développeur voulant participer au projet est le bienvenu sur github.
+                    </li>
+                    <li class="text-list fa-1 mt-3 ">
+                        Contribuez à améliorer les performances et la sécurité de la plateforme.
+                    </li>
+                    <li class="text-list mt-3 fa-1">
+                        La partie Front est en React et le Back est une API en Symfony4.
+                    </li>
+                </ul>
+
+                <div class="mt-5">
+                    <a class="btn btn-primary mr-3" href="https://github.com/loryleticee/dentiio-front" target="_blank" >Front-end <i class="fa fa-github"></i></a>
+                    <a class="btn btn-primary" href="https://github.com/branisanz1/dentiio-api" target="_blank">Back-end <i class="fa fa-github"></i></a>
+                </div>
             </div>
         </div>
     </div>

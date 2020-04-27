@@ -50,7 +50,7 @@
                                 <div class="entry__choice">
                                     <label>
                                         <input type="checkbox" class="input_replaced" value="1" id="OPT_IN" name="OPT_IN" />
-                                        <span class="checkbox checkbox_tick_positive"></span><p style="font-size:12px; text-align:center;">Acepto recibir sus boletines, términos y condiciones.</p></label>
+                                        <span class="checkbox checkbox_tick_positive"></span><p style="font-size:12px; text-align:center;">Acepto recibir sus newsletters, términos y condiciones.</p></label>
                                 </div>
                             </div>
                             <label class="entry__error entry__error--primary" style="font-size:16px; text-align:left; color:#661d1d; background-color:#ffeded; border-radius:3px; border-width:px; border-color:#ff4949;">

@@ -57,7 +57,7 @@
             </ul>
             <span>
                 <a href="https://forms.gle/DAGJSzfLDJCPqcjA7" target='_blank' rel="noopener noreferrer" class="nav-item button buttonhome border-0"><span class="gradient"></span>
-                    Rellenar el formulario
+                    Contestar el formulario
                 </a>
             </span>
         </div>
