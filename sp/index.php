@@ -40,7 +40,7 @@
             <div class="caption bg-white09 z-100">
                 <h2 class="text-primary text-uppercase text-left p-2 title2">Nuestra solución</h2>
                 <p class="text-grey fa-1-2 p-2 desc">
-                    Necesita un aliado en su práctica diaria?
+                    ¿Necesita un aliado en su práctica diaria?
                     <br><br>
                     Dentiio reúne todo el cuerpo médico odontológico para intercambiar casos y protocolos terapéuticos de forma anónima y segura.
             </div>
@@ -56,7 +56,7 @@
         <div class="col-12">
             <h2 class="text-white text-uppercase text-center title2">Nuestra solución</h2>
             <p class="text-white fa-1-2 text-center pt-2 desc">
-                Necesita un aliado en su práctica diaria?
+                ¿Necesita un aliado en su práctica diaria?
                 <br><br>
                 Dentiio reúne todo el cuerpo médico odontológico para intercambiar casos y protocolos terapéuticos de forma anónima y segura.
             </p>
@@ -72,7 +72,7 @@
         </div>
         <div class='item33 text-center'>
             <img class='picto' alt="validate your diagnosis" src="../img/picto/tooth.png"/>
-            <h2 class='picto-title text-grey'>Corrobore su diagnóstico</h2>
+            <h2 class='picto-title text-grey'>Céntrese su diagnóstico</h2>
             <p class='desc fa-1-2 text-center text-black-50 px-md-4'>Hable con otros odontólogos a la hora de tomar decisiones a través de nuestra plataforma
             </p>
         </div>
@@ -80,13 +80,13 @@
             <hr class='picto-hr'/>
             <img class='picto' alt="Target your priority: the patient" src="../img/picto/dentist.png"/>
             <h2 class='picto-title text-grey'>Focalizese en su prioridad: el paciente</h2>
-            <p class='desc fa-1-2 text-center text-black-50 px-md-4'>Elija la mejor opción terapéutica para su paciente y diversifique su metodología</p>
+            <p class='desc fa-1-2 text-center text-black-50 px-md-4'>Elija la mejor opción terapéutica para su paciente y varíe su metodología</p>
         </div>
         <div class='item33 text-center'>
             <hr class='picto-hr'/>
             <img class='picto' alt="Become an actor in your community" src="../img/picto/teamwork.png"/>
-            <h2 class='picto-title text-grey'>Sea el protagonista de su comunidad</h2>
-            <p class='desc fa-1-2 text-center text-black-50 px-md-4'>Destáquese publicando sus casos y forme parte de una comunidad de ayuda mutua</p>
+            <h2 class='picto-title text-grey'>Sea protagonista de su comunidad</h2>
+            <p class='desc fa-1-2 text-center text-black-50 px-md-4'>Destáquese publicando sus mejores y forme parte de una comunidad de cooperación mutua</p>
         </div>
     </div>
 </div>
