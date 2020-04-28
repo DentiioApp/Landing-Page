@@ -82,7 +82,7 @@
             <hr class='picto-hr'/>
             <img class='picto' alt="Become an actor in your community" src="img/picto/teamwork.png"/>
             <h2 class='picto-title text-grey'>Devenez acteur de votre communauté</h2>
-            <p class='desc fa-1-2 text-center text-black-50 px-md-4'>Démarquez vous en publiant vos meilleurs cas, et faites partie d’une communauté d’entraide.</p>
+            <p class='desc fa-1-2 text-center text-black-50 px-md-4'>Démarquez-vous en publiant vos meilleurs cas, et faites partie d’une communauté d’entraide.</p>
         </div>
     </div>
 </div>

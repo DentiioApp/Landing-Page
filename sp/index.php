@@ -72,21 +72,21 @@
         </div>
         <div class='item33 text-center'>
             <img class='picto' alt="validate your diagnosis" src="../img/picto/tooth.png"/>
-            <h2 class='picto-title text-grey'>Céntrese su diagnóstico</h2>
+            <h2 class='picto-title text-grey'>Corrobore su diagnóstico</h2>
             <p class='desc fa-1-2 text-center text-black-50 px-md-4'>Hable con otros odontólogos a la hora de tomar decisiones a través de nuestra plataforma
             </p>
         </div>
         <div class='item33 text-center'>
             <hr class='picto-hr'/>
             <img class='picto' alt="Target your priority: the patient" src="../img/picto/dentist.png"/>
-            <h2 class='picto-title text-grey'>Focalizese en su prioridad: el paciente</h2>
+            <h2 class='picto-title text-grey'>Céntrese en su prioridad: el paciente</h2>
             <p class='desc fa-1-2 text-center text-black-50 px-md-4'>Elija la mejor opción terapéutica para su paciente y varíe su metodología</p>
         </div>
         <div class='item33 text-center'>
             <hr class='picto-hr'/>
             <img class='picto' alt="Become an actor in your community" src="../img/picto/teamwork.png"/>
             <h2 class='picto-title text-grey'>Sea protagonista de su comunidad</h2>
-            <p class='desc fa-1-2 text-center text-black-50 px-md-4'>Destáquese publicando sus mejores y forme parte de una comunidad de cooperación mutua</p>
+            <p class='desc fa-1-2 text-center text-black-50 px-md-4'>Destáquese publicando sus mejores casos y forme parte de una comunidad de cooperación mutua</p>
         </div>
     </div>
 </div>
