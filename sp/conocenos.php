@@ -56,7 +56,7 @@
                 <div class="mt-3 pt-md-5">
                     <h2 class="text-primary text-uppercase text-center  title2">OPEN SOURCE</h2>
                 </div>
-                <p class="text-grey pt-3 px-md-5 mt-3 text-left fa-1-2">Dentiio es una aplicación web, el acceso al código fuente y a la creación de trabajos derivados estàn a disposición del pùblico.<br></p>
+                <p class="text-grey pt-3 px-md-5 mt-3 text-left fa-1-2">Dentiio es una aplicación web, el acceso al código fuente y a la creación de trabajos derivados están a disposición del público.<br></p>
                 <ul class="bloc-list mt-2 text-left">
                     <li class="text-list mt-3 fa-1">
                         Todos los programadores que quieran participar en el proyecto son bienvenidos en github.
@@ -65,7 +65,7 @@
                         Contribuyan en mejorar el rendimiento y la seguridad de la plataforma.
                     </li>
                     <li class="text-list mt-3 fa-1">
-                        La parte Front es en React y el Back es una API en Symfony4.
+                        La parte Front está en React y el Back es una API en Symfony4.
                     </li>
                 </ul>
 

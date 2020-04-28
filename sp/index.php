@@ -100,7 +100,7 @@
             <ol class="gradient-list">
                 <li class="li-one mt-md-n4"><h3>Busque las patologías o tratamientos publicados por sus compañeros</h3></li>
                 <p class="text-grey fa-1-2 pt-5">
-                    Accede a todas la publicaciones de otros dentistas y descubra:
+                    Acceda a todas la publicaciones de otros dentistas y descubra:
                 </p>
                 <ul class="bloc-list mt-2">
                     <li class="text-list fa-1-2">
@@ -117,7 +117,7 @@
         </div>
         <div class="col-md-7">
             <img class="w-100 border-primary border-lg" alt="Home of application" src="../img/sp/search.png">
-            <p class="text-black-50 fa-0-8">Modelos no finales</p>
+            <p class="text-black-50 fa-0-8">Maquetas no definitivas</p>
         </div>
     </div>
     <div class="row pt-7 pb-7 px-md-4 bck-grey bck-grey-hover">
@@ -141,7 +141,7 @@
         </div>
         <div class="col-md-7 order-md-first">
             <img class="w-100 border-primary border-lg" alt="Share your diagnosis with Dentiio application" src="../img/sp/detail.png">
-            <p class="text-black-50 fa-0-8">Modelos no finales</p>
+            <p class="text-black-50 fa-0-8">Maquetas no definitivas</p>
         </div>
     </div>
     <div class="row pt-7 px-md-4 pb-5">
@@ -154,7 +154,7 @@
         </div>
         <div class="col-md-7">
             <img class="w-100 border-secondary border-lg" alt="Chat on Dentiio application" src="../img/sp/discussion.png">
-            <p class="text-black-50 fa-0-8">Modelos no finales</p>
+            <p class="text-black-50 fa-0-8">Maquetas no definitivas</p>
         </div>
     </div>
 </div>

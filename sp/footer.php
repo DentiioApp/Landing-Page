@@ -14,7 +14,7 @@
         </div>
         <hr class='picto-hr'/>
         <div class='col-md-4 pb-3'>
-            <h6>Siganos</h6>
+            <h6>Síganos</h6>
             <a href='https://www.facebook.com/dentiio/' class="rs" target='_blank' rel="noopener noreferrer">
                 <i class="fa fa-facebook-f fa-size"></i>
             </a>

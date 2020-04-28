@@ -7,7 +7,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <?php
-    echo ($url=="somos.php"?
+    echo ($url=="cenos.php"?
             "<meta name=\"description\" content=\"La plateforme dédiée au partage de connaissances bucco-dentaires\">
             <title>Who we are ?</title>"
                 :
@@ -42,7 +42,7 @@
                     <a class="nav-item nav-link <?php echo ($url=="index.php"? "active" : "nav-hover" )?>" href="index.php">Inicio<span class="sr-only">(current)</span></a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-item nav-link <?php echo ($url=="somos.php"? "active" : "nav-hover" )?>" href="conocenos.php">Conócenos</a>
+                    <a class="nav-item nav-link <?php echo ($url=="cenos.php"? "active" : "nav-hover" )?>" href="conocenos.php">Conócenos</a>
                 </li>
                 <li class="nav-item d-none">
                     <a href="../en/index.php" class="nav-item nav-link">
