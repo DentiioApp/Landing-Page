@@ -68,8 +68,8 @@
                 </ul>
 
                 <div class="mt-5">
-                    <a class="btn btn-primary mr-3" href="https://github.com/loryleticee/dentiio-front" target="_blank" >Front-end <i class="fa fa-github"></i></a>
-                    <a class="btn btn-primary" href="https://github.com/branisanz1/dentiio-api" target="_blank">Back-end <i class="fa fa-github"></i></a>
+                    <a class="btn btn-primary mr-3" href="https://github.com/DentiioApp" target="_blank" rel="noopener" >Participate in development <i class="fa fa-github"></i></a>
+
                 </div>
             </div>
         </div>

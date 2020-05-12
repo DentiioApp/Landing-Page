@@ -20,7 +20,8 @@
                     </li>
                 </ul>
                 <div class="mt-5 mb-3 text-center">
-                    <a href="#atout" class="button bg-primary p-2 border-0 ml-0 border-radius50 text-white">Explorar Dentiio <i class="fa fa-arrow-right pl-2"></i></a>
+                    <a href="https://forms.gle/DAGJSzfLDJCPqcjA7" target='_blank' rel="noopener noreferrer" class="button bg-primary p-2 border-0 ml-0 border-radius50 text-white">Contestar el formulario <i class="fa fa-arrow-right pl-2"></i></a>
+            </span>
                 </div>
             </div>
         </div>

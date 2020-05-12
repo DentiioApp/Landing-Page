@@ -19,7 +19,7 @@
                     </li>
                 </ul>
                 <div class="mt-5 mb-3 text-center">
-                    <a href="#atout" class="button bg-primary p-2 border-0 ml-0 border-radius50 text-white">Explorer Dentiio <i class="fa fa-arrow-right pl-2"></i></a>
+                    <a href="https://docs.google.com/forms/d/e/1FAIpQLSfS_jq9N_vC1eYy48ZX8I3hqyO7R4be91k5Vi_2BUymXkM-eg/viewform?usp=sf_link"  target='_blank' rel="noopener noreferrer" class="button bg-primary p-2 border-0 ml-0 border-radius50 text-white">Répondre au questionnaire <i class="fa fa-arrow-right pl-2"></i></a>
                 </div>
             </div>
         </div>

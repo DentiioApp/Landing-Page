@@ -57,10 +57,6 @@
                     </a>
                 </li>
             </ul>
-
-            <span>
-                <a href="https://docs.google.com/forms/d/e/1FAIpQLSfS_jq9N_vC1eYy48ZX8I3hqyO7R4be91k5Vi_2BUymXkM-eg/viewform?usp=sf_link" target='_blank' rel="noopener noreferrer" class="nav-item button buttonhome border-0"><span class="gradient"></span>Répondre au questionnaire</a>
-            </span>
         </div>
     </nav>
 </header>
