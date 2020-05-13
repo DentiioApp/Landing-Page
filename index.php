@@ -69,7 +69,7 @@
         </div>
         <div class='item33 text-center'>
             <img class='picto' alt="validate your diagnosis" src="img/picto/tooth.png"/>
-            <h2 class='picto-title text-grey'>Validez votre diagnostic</h2>
+            <h2 class='picto-title text-grey'>Confirmez votre diagnostic</h2>
             <p class='desc fa-1-2 text-center text-black-50 px-md-4'>Dialoguez avec d’autres praticiens lors de vos prises de décisions grâce à notre plateforme.</p>
         </div>
         <div class='item33 text-center'>
