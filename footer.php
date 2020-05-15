@@ -23,7 +23,7 @@
             <a href='https://www.linkedin.com/company/dentiio/' class="rs" target='_blank' rel="noopener noreferrer">
                 <i class="fa fa-linkedin fa-size"></i>
             </a>
-            <a href='https://www.instagram.com/dentiio.fr/' class="rs" target='_blank' rel="noopener noreferrer">
+            <a href='https://www.instagram.com/dentiio.dentistry/' class="rs" target='_blank' rel="noopener noreferrer">
                 <i class="fa fa-instagram fa-size"></i>
             </a>
             <a href='https://twitter.com/dentiio' target='_blank' class="rs" rel="noopener noreferrer">
