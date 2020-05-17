@@ -17,7 +17,7 @@
             </div>
         </div>
         <div class='col-md-5 pt-5  text-center pl-4 mt-md-5'>
-            <img class='rounded' width="90%" alt="illustration of dentists caring for a tooth" src="../img/photo/team.jpg"/>
+            <img class='rounded' width="90%" alt="illustration of dentists caring for a tooth" src="../img/photo/team.png"/>
         </div>
     </div>
 </div>
