@@ -1,6 +1,6 @@
 <?php include_once("header.php") ;?>
 
-<div class='container pb-4'>
+<div class='container pb-5'>
     <div class="row">
         <div class='col-md-7'>
             <div class="pt-md-5 pl-md-5">
@@ -18,6 +18,13 @@
         <div class='col-md-5 pt-5  text-center pl-4 mt-md-5'>
             <img class='rounded' width="90%" alt="illustration of dentists caring for a tooth" src="img/photo/team.png"/>
         </div>
+    </div>
+</div>
+<div class='container pb-4 pt-5'>
+    <div class="row">
+        <div class='col-md-12 text-center'>
+            <h2 class="text-primary text-uppercase pt-2 pb-5 title2">Presentation</h2>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/79O_0hvT3-Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>        </div>
     </div>
 </div>
 <!--EXPLICATION PICTO-->

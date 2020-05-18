@@ -1,7 +1,7 @@
 <?php include_once("header.php") ;?>
 
 <!--HEADER-->
-<div class='container pb-5'>
+<div class='container'>
     <div class="row pb-5">
         <div class='col-md-6'>
             <div class="pt-md-5 pl-md-5">
@@ -29,7 +29,36 @@
     </div>
 </div>
 
-<p id="atout" class="mb-5"></p>
+<div class='container pb-5'>
+    <div class="row pb-5">
+        <div class="col-md-2">
+        </div>
+        <div class='col-md-8 text-center'>
+            <h2 class="text-primary text-uppercase p-2 text-center ">CONCOURS FACEBOOK</h2>
+            <p class="h4">
+                Gagnez un abonnement de 1 an à la revue dentaire Quintessence Dentisterie Restauratrice et Prothèse d’une valeur de 189 euros
+            </p>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-1">
+        </div>
+        <div class="col-md-7">
+            <ol class="gradient-list w-100">
+                <li class="li-one "><h3>Rejoignez notre groupe facebook en cliquant ici: <a href="https://www.facebook.com/groups/CasCliniqueDentiio/" target="_blank" class="ml-3 btn btn-primary text-white">Rejoindre</a></h3></li>
+                <li class="li-two mt-5"><h3>Publiez-y votre plus belle photo dentaire</h3></li>
+            </ol>
+        </div>
+        <div class="col-md-4">
+            <img src="img/photo/concours.png" width="250px">
+        </div>
+</div>
+    <p class="text-center pt-4 text-black-50">
+        Date de fin le 5 juin!<br>
+        Nous attendons avec impatience votre plus belle publication!!
+    </p>
+
+<p id="atout" class="mb-5 pt-5"></p>
 <!--Valeurs Desktop-->
 <div class='container bg-secondary d-none d-md-block mt-5'>
     <div class="row">
@@ -95,6 +124,7 @@
         <div class="col-md-5">
             <ol class="gradient-list">
                 <li class="li-one mt-md-n4"><h3>Recherchez les pathologies ou traitements publiés par vos confrères</h3></li>
+            </ol>
                 <p class="text-grey fa-1-2 pt-5">
                     Accédez à l’ensemble des publications dentaires de vos confrères pour découvrir :
                 </p>
@@ -120,6 +150,7 @@
         <div class="col-md-5 order-md-last">
             <ol class="gradient-list">
                 <li class="li-two mt-n4"><h3>Publiez vos cas cliniques les plus pertinents</h3></li>
+            </ol>
                 <p class="text-grey fa-1-2 pt-5">
                     Publiez vos cas dentaires et vos photos, en y détaillant :
                 </p>
@@ -144,6 +175,7 @@
         <div class="col-md-5">
             <ol class="gradient-list">
                 <li class="li-three mt-n4"><h3>Participez aux discussions</h3></li>
+            </ol>
                 <p class="text-grey fa-1-2 pt-5">
                     Répondez aux questions de vos confrères ou postez les vôtres et participez activement au sein de la communauté.
                 </p>
