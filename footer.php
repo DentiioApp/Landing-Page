@@ -1,7 +1,7 @@
 
 
 <!--FOOTER-->
-<div class='container footer text-center bg-white text-grey px-5 pt-5'>
+<div class='container footer text-center bg-secondary text-grey px-5 pt-5'>
     <div class="row">
         <div class='col-md-4 pb-3 text-center'>
             <h6>Contactez-nous</h6>
@@ -38,7 +38,6 @@
             <p class='text-black-50 ft-s0-7'>Copyright© Dentiio - Tous droits réservés</p>
         </div>
     </div>
-</div>
 </div>
 </body>
 <footer>

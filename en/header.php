@@ -12,7 +12,7 @@
             <title>Who we are ?</title>"
                 :
             "<meta name=\"description\" content=\"La plateforme dédiée au partage de connaissances bucco-dentaires\">
-            <title>Dentiio - La référence en diagnostic dentaire</title>"
+            <title>Dentiio - The reference in dental diagnosis</title>"
     );
     ?>
 

@@ -1,5 +1,5 @@
 
-<div class="sib-form" style="text-align: center;">
+<div class="sib-form bg-secondary" style="text-align: center;">
     <div id="sib-form-container" class="sib-form-container">
         <div id="error-message" class="sib-form-message-panel">
             <div class="sib-form-message-panel__text sib-form-message-panel__text--center">
@@ -13,7 +13,7 @@
             </div>
         </div>
         <div></div>
-        <div id="success-message" class="sib-form-message-panel">
+        <div id="success-message" class="sib-form-message-panel bg-secondary">
             <div class="sib-form-message-panel__text sib-form-message-panel__text--center">
                 <svg viewBox="0 0 512 512" class="sib-icon sib-notification__icon">
                     <path d="M256 8C119.033 8 8 119.033 8 256s111.033 248 248 248 248-111.033 248-248S392.967 8 256 8zm0 464c-118.664 0-216-96.055-216-216 0-118.663 96.055-216 216-216 118.664 0 216 96.055 216 216 0 118.663-96.055 216-216 216zm141.63-274.961L217.15 376.071c-4.705 4.667-12.303 4.637-16.97-.068l-85.878-86.572c-4.667-4.705-4.637-12.303.068-16.97l8.52-8.451c4.705-4.667 12.303-4.637 16.97.068l68.976 69.533 163.441-162.13c4.705-4.667 12.303-4.637 16.97.068l8.451 8.52c4.668 4.705 4.637 12.303-.068 16.97z"
@@ -25,7 +25,7 @@
             </div>
         </div>
         <div></div>
-        <div id="sib-container" class="sib-container--large sib-container--vertical">
+        <div id="sib-container" class="sib-container--large sib-container--vertical bg-secondary">
             <form id="sib-form" method="POST" action="https://70e5514b.sibforms.com/serve/MUIEAIIsdEJBj9hS1mq34khm0aXuaUpiWT7vmZbzNP9dQJAYl99AggJnR7TcKOnjeNmJRgygHOjTG6ZfIK9y4vCAQjJQLJxwXtIjfuyoCPi3sJpVKCa0JyXTWv7G2hnpV7clgURJAxnLo1dN8HY2txyeZfA7HE7oCvUQ3Lj1-bSQAOhnOYJHqnAvBeHf50jXW-1-PmB43YzZ_VnI"
                   data-type="subscription">
                 <div >

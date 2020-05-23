@@ -5,8 +5,8 @@
    </span>
     <br>
     <span id="cn-notice-buttons" class="cn-buttons-container">
-        <button  onclick="refuseCookies()" class="btn btn-primary mt-2">Refuse</button>
-        <button id="accept_cookies" onclick="acceptCookies()"  class="btn btn-light mt-2">Accept</button>
+        <button  onclick="refuseCookies()" class="btn btn-light mt-2">Refuse</button>
+        <button id="accept_cookies" onclick="acceptCookies()"  class="btn btn-primary mt-2">Accept</button>
     </span>
 </div>
 <?php endif; ?>

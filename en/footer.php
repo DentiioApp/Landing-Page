@@ -1,5 +1,5 @@
 <!--FOOTER-->
-<div class='container footer text-center bg-white text-grey px-5 pt-5'>
+<div class='container footer text-center bg-secondary text-grey px-5 pt-5'>
     <div class="row">
         <div class='col-md-4 pb-3 text-center'>
             <h6>Contactez-nous</h6>

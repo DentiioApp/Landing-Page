@@ -1,4 +1,4 @@
-<div class="sib-form" style="text-align: center;background-color: #EFF2F7;">
+<div class="sib-form bg-secondary" style="text-align: center;">
     <div id="sib-form-container" class="sib-form-container">
         <div id="error-message" class="sib-form-message-panel" style="font-size:16px; text-align:center;">
             <div class="sib-form-message-panel__text sib-form-message-panel__text--center">
@@ -12,7 +12,7 @@
             </div>
         </div>
         <div></div>
-        <div id="success-message" class="sib-form-message-panel" style="font-size:16px; text-align:center;">
+        <div id="success-message" class="sib-form-message-panel bg-secondary" style="font-size:16px; text-align:center;">
             <div class="sib-form-message-panel__text sib-form-message-panel__text--center">
                 <svg viewBox="0 0 512 512" class="sib-icon sib-notification__icon">
                     <path d="M256 8C119.033 8 8 119.033 8 256s111.033 248 248 248 248-111.033 248-248S392.967 8 256 8zm0 464c-118.664 0-216-96.055-216-216 0-118.663 96.055-216 216-216 118.664 0 216 96.055 216 216 0 118.663-96.055 216-216 216zm141.63-274.961L217.15 376.071c-4.705 4.667-12.303 4.637-16.97-.068l-85.878-86.572c-4.667-4.705-4.637-12.303.068-16.97l8.52-8.451c4.705-4.667 12.303-4.637 16.97.068l68.976 69.533 163.441-162.13c4.705-4.667 12.303-4.637 16.97.068l8.451 8.52c4.668 4.705 4.637 12.303-.068 16.97z"
@@ -24,7 +24,7 @@
             </div>
         </div>
         <div></div>
-        <div id="sib-container" class="sib-container--large sib-container--vertical" style="text-align:center;">
+        <div id="sib-container" class="sib-container--large sib-container--vertical bg-secondary" style="text-align:center;">
             <form id="sib-form" method="POST" action="https://70e5514b.sibforms.com/serve/MUIEADOAPMs7SwewLH2MytNF_InSuRtGQ5fkpeyxdOfZPmPCY4OHUWqlINYGKpXxfIG7CfP5O380fm7Q0KQ96lXMrlBiyq2lTjw9ObSE9JjmDDPdY9yCSK8wZ3sqPajk1_hTZMVx2Yb5Q9WsI2REAjvsUvEGtpRJM3B85SHzYX5nRh8D24DF722lyztE2d5y1oEhqQSEDfCebQRJ"
                   data-type="subscription">
                 <div >

@@ -44,7 +44,7 @@
                 <li class="nav-item">
                     <a class="nav-item nav-link <?php echo ($url=="cenos.php"? "active" : "nav-hover" )?>" href="conocenos.php">Conócenos</a>
                 </li>
-                <li class="nav-item d-none">
+                <li class="nav-item">
                     <a href="../en/index.php" class="nav-item nav-link">
                         <img src="../img/flag/uk.png" alt="united kingdom flag" width="15px" height="auto" />
                     </a>

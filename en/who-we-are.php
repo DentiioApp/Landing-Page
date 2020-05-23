@@ -4,14 +4,13 @@
     <div class="row">
         <div class='col-md-7'>
             <div class="pt-md-5 pl-md-5">
-                <h2 class="text-primary text-res text-uppercase pt-2 title2">Le projet</h2>
+                <h2 class="text-primary text-res text-uppercase pt-2 title2">THE PROJECT</h2>
                 <p class="fa-1-2 text-grey pt-4 pr-4 text-justify">
-                    Créé et développé par des étudiants de l'École d'Informatique, Web et Digital Marketing IPSSI à Paris, Dentiio est le résultat d’une longue et minutieuse analyse de la pratique dentaire.<br><br>
-
-                    Avec pour objectif de réunir la médecine dentaire et la technologie, et en collaboration avec un chirurgien-dentiste, leur ambition est de créer un véritable réseau d'échange de connaissances et d'entraide au sein de la profession.<br><br>
-
-                    Le but: devenir un allié de ces professionnels de santé, étudiant où praticiens expérimentés, et contribuer à l'amélioration de la pratique dentaire par l'expérience issue des cas cliniques.
-
+                    Created and developed by students ofthe School of Computer Science, Web and Digital Marketing (IPSSI) in Paris, Dentilo is the result of a long and meticulous analysis of dental practice.
+                    <br><br>
+                    With the aim of merging dentistry withtechnology, and in close collaboration with a dental surgeon, our ambition is to create an extensive network that allows the exchange of knowledge andmutual support within the community.
+                    <br><br>
+                    The goal: To support health professionals, students and more experienced practitioners, and contribute to the improvement of dental practices.
                 </p>
             </div>
         </div>
@@ -25,21 +24,21 @@
 <div class='container bck-grey picto-bloc px-3 pt-2 pb-3'>
     <div class="row pb-md-5">
         <div class="col-12 col-md-12 col-lg-12 p-3 mt-2">
-            <h2 class="text-grey text-uppercase text-center title2 pb-3">Nos Objectifs</h2>
+            <h2 class="text-grey text-uppercase text-center title2 pb-3">OUR OBJECTIVE</h2>
         </div>
         <div class='item33 text-center'>
             <img class='picto' alt="validate your diagnosis" src="../img/picto/laptop.png"/>
-            <p class='desc text-center text-black-50 px-md-4 pt-3'>Utiliser la technologie afin de créer un réseau d’entraide entre professionnels de la santé bucco-dentaire.</p>
+            <p class='desc text-center text-black-50 px-md-4 pt-3'>Use technology in order to create a support network between oral health professionals.</p>
         </div>
         <div class='item33 text-center'>
             <hr class='picto-hr'/>
             <img class='picto' alt="patient" src="../img/picto/teacher.png"/>
-            <p class='desc text-center text-black-50 px-md-4 pt-3'>Donner aux chirurgiens-dentistes le moyen de livrer leurs expériences pratiques et leurs conseils à leurs confrères.</p>
+            <p class='desc text-center text-black-50 px-md-4 pt-3'>Give dentists the means to share theirexperiences and advices with their colleagues.</p>
         </div>
         <div class='item33 text-center'>
             <hr class='picto-hr'/>
             <img class='picto' alt="community" src="../img/picto/social-care.png"/>
-            <p class='desc text-center text-black-50 px-md-4 pt-3'>Renforcer la solidarité médico-dentaire à travers le partage d’informations.</p>
+            <p class='desc text-center text-black-50 px-md-4 pt-3'>Strengthening the solidarity between oral health professionals through information exchange.</p>
         </div>
     </div>
 </div>
@@ -54,16 +53,18 @@
                 <div class="mt-3 pt-md-5">
                     <h2 class="text-primary text-uppercase text-center  title2">OPEN SOURCE</h2>
                 </div>
-                <p class="text-grey pt-3 px-md-5 mt-3 text-left fa-1-2">Dentiio est une application web open-source, l'accès au code source et la création de travaux dérivés est mis à disposition du public.<br></p>
+                <p class="text-grey pt-3 px-md-5 mt-3 text-left fa-1-2">
+                    Dentilo is an open-source web app. The access to source code and the creation of derivative works are made available to the public.
+                    <br></p>
                 <ul class="bloc-list mt-2 text-left">
                     <li class="text-list mt-3 fa-1">
-                        Tout développeur voulant participer au projet est le bienvenu sur github.
+                        All developer wishing to participate to the project is welcome to collaborate through Github.
                     </li>
                     <li class="text-list fa-1 mt-3 ">
-                        Contribuez à améliorer les performances et la sécurité de la plateforme.
+                        Contribute to improve the platform’s performance and security.
                     </li>
                     <li class="text-list mt-3 fa-1">
-                        La partie Front est en React et le Back est une API en Symfony4.
+                        Front-end is developed in React and back-end is an API in Symfony4
                     </li>
                 </ul>
 
