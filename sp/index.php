@@ -69,7 +69,7 @@
 <div class='container bck-grey bck-grey-hover picto-bloc px-3 pt-5 pb-md-5 pb-2'>
     <div class="row pb-md-5">
         <div class="col-12 col-md-12 col-lg-12 p-3 mt-md-5 ">
-            <h2 class="text-grey text-uppercase text-center mt-lg-4 pb-5 title2">Nuestras ventajas</h2>
+            <h2 class="text-primary text-uppercase text-center mt-lg-4 pb-5 title2">Nuestras ventajas</h2>
         </div>
         <div class='item33 text-center'>
             <img class='picto' alt="validate your diagnosis" src="../img/picto/tooth.png"/>
@@ -94,7 +94,7 @@
 
 
 <!--HOW-->
-<h2 class="text-grey text-uppercase title2 text-center mt-md-5 pt-3">El principio</h2>
+<h2 class="text-primary text-uppercase title2 text-center mt-md-5 pt-3">El principio</h2>
 <div class='container bg-white pt-md-5 mt-md-3'>
     <div class="row pb-5 px-md-4">
         <div class="col-md-5">
@@ -161,7 +161,7 @@
 </div>
 
 <!--POUR QUI-->
-<h2 class="text-center title2 text-uppercase pb-3 pt-5">La comunidad</h2>
+<h2 class="text-center title2 text-primary text-uppercase pb-3 pt-5">La comunidad</h2>
 <div class="container text-center">
     <div class="row">
         <div class="col-md-4 bck-grey bck-grey-hover bck-grey bck-grey-hover-hover p-5">
@@ -193,7 +193,7 @@
                 <div class="mt-3 pt-md-5">
                     <h2 class="text-primary text-uppercase text-center pt-md-5 title2">Formulario</h2>
                 </div>
-                <p class="text-black-50 pt-3 px-md-5 mt-3  text-center fa-1-2">Nuestra plataforma aún está en desarrollo. Estará próximamente disponible en la web, móvil y tablet.<br><br><br>Para ser el primero informado de la actualidad de Dentiio y ayudarnos a satisfacer vuestras necesidades.</p>
+                <p class="text-black-50 pt-3 px-md-5 mt-3  text-center fa-1-2">Para ser el primero informado de la actualidad de Dentiio y ayudarnos a satisfacer vuestras necesidades.</p>
                 <p class="text-grey pt-3 mt-1 px-md-5 text-center font-weight-bold ft-s2">Rellene el formulario aquí debajo:</p>
                 <a href="https://forms.gle/DAGJSzfLDJCPqcjA7" target='_blank' rel="noopener noreferrer" class="nav-item button buttonhome border-0 mt-5 mt-md-5 py-3" style="width: 400px; font-size: 1.3rem"><span class="gradient"></span>Contestar al formulario
                 </a>

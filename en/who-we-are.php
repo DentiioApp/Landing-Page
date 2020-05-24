@@ -6,11 +6,11 @@
             <div class="pt-md-5 pl-md-5">
                 <h2 class="text-primary text-res text-uppercase pt-2 title2">THE PROJECT</h2>
                 <p class="fa-1-2 text-grey pt-4 pr-4 text-justify">
-                    Created and developed by students ofthe School of Computer Science, Web and Digital Marketing (IPSSI) in Paris, Dentilo is the result of a long and meticulous analysis of dental practice.
+                    Created and developed by students of the Ipssi, School of Computer Science, Web and Digital Marketing in Paris, Dentiio is the result of a long and meticulous analysis of dental practice.
                     <br><br>
-                    With the aim of merging dentistry withtechnology, and in close collaboration with a dental surgeon, our ambition is to create an extensive network that allows the exchange of knowledge andmutual support within the community.
+                    In close collaboration with a dental surgeon and aiming to merge dentistry with technology, our ambition is to build an extensive network that will allow the exchange knowledge and mutual support within the community.
                     <br><br>
-                    The goal: To support health professionals, students and more experienced practitioners, and contribute to the improvement of dental practices.
+                    The goal: To support health professionals, students and more experienced practitioners, in order to contribute to the improvement of dental practices.
                 </p>
             </div>
         </div>
@@ -24,7 +24,7 @@
 <div class='container bck-grey picto-bloc px-3 pt-2 pb-3'>
     <div class="row pb-md-5">
         <div class="col-12 col-md-12 col-lg-12 p-3 mt-2">
-            <h2 class="text-grey text-uppercase text-center title2 pb-3">OUR OBJECTIVE</h2>
+            <h2 class="text-primary text-uppercase text-center title2 pb-3">OUR OBJECTIVE</h2>
         </div>
         <div class='item33 text-center'>
             <img class='picto' alt="validate your diagnosis" src="../img/picto/laptop.png"/>
@@ -33,12 +33,12 @@
         <div class='item33 text-center'>
             <hr class='picto-hr'/>
             <img class='picto' alt="patient" src="../img/picto/teacher.png"/>
-            <p class='desc text-center text-black-50 px-md-4 pt-3'>Give dentists the means to share theirexperiences and advices with their colleagues.</p>
+            <p class='desc text-center text-black-50 px-md-4 pt-3'>Give dentists the means to share their experiences and advices with their colleagues.</p>
         </div>
         <div class='item33 text-center'>
             <hr class='picto-hr'/>
             <img class='picto' alt="community" src="../img/picto/social-care.png"/>
-            <p class='desc text-center text-black-50 px-md-4 pt-3'>Strengthening the solidarity between oral health professionals through information exchange.</p>
+            <p class='desc text-center text-black-50 px-md-4 pt-3'>Strengthen the solidarity between oral health professionals through information exchanges.</p>
         </div>
     </div>
 </div>
@@ -54,7 +54,7 @@
                     <h2 class="text-primary text-uppercase text-center  title2">OPEN SOURCE</h2>
                 </div>
                 <p class="text-grey pt-3 px-md-5 mt-3 text-left fa-1-2">
-                    Dentilo is an open-source web app. The access to source code and the creation of derivative works are made available to the public.
+                    Dentiio is an open-source web app. The access to source code and the creation of derivative works are made available to the public.
                     <br></p>
                 <ul class="bloc-list mt-2 text-left">
                     <li class="text-list mt-3 fa-1">

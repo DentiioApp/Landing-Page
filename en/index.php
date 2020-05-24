@@ -6,10 +6,10 @@
         <div class='col-md-6'>
             <div class="pt-md-5 pl-md-5">
                 <h1 class="text-primary text-res pt-2 title-name">Dentiio</h1>
-                <h1 class='text-res text-grey font-weight-light title-word animated bounceInLeft'>The reference in dental diagnosis<br><span class="title-word2">Because each clinical case is unique</span></h1>
+                <h1 class='text-res text-grey font-weight-light title-word animated bounceInLeft'>The standard in dental diagnosis<br><span class="title-word2">Because each clinical case is unique</span></h1>
                 <ul class="bloc-list mt-5">
                     <li class="text-list">
-                        Discover concrete and certified dental cases
+                        Discover real and certified dental cases
                     </li>
                     <li class="text-list mt-3">
                         Exchange medical opinions with your colleagues
@@ -19,7 +19,7 @@
                     </li>
                 </ul>
                 <div class="mt-5 mb-3 text-center">
-                    <a href="https://forms.gle/bja4bfYDVnk52QmX8" target='_blank' rel="noopener noreferrer" class="button bg-primary p-2 border-0 ml-0 border-radius50 text-white">Answer the quiz<i class="fa fa-arrow-right pl-2"></i></a>
+                    <a href="https://forms.gle/bja4bfYDVnk52QmX8" target='_blank' rel="noopener noreferrer" class="button bg-primary p-2 border-0 ml-0 border-radius50 text-white">Give us your feedback<i class="fa fa-arrow-right pl-2"></i></a>
                 </div>
             </div>
         </div>
@@ -65,7 +65,7 @@
 <div class='container bck-grey bck-grey-hover picto-bloc px-3 pt-5 pb-md-5 pb-2'>
     <div class="row pb-md-5">
         <div class="col-12 col-md-12 col-lg-12 p-3 mt-md-5 ">
-            <h2 class="text-grey text-uppercase text-center mt-lg-4 pb-5 title2">OUR STRENGTHS</h2>
+            <h2 class="text-primary text-uppercase text-center mt-lg-4 pb-5 title2">OUR STRENGTHS</h2>
         </div>
         <div class='item33 text-center'>
             <img class='picto' alt="validate your diagnosis" src="../img/picto/tooth.png"/>
@@ -89,7 +89,7 @@
 
 
 <!--HOW-->
-<h2 class="text-grey text-uppercase title2 text-center mt-md-5 pt-3">HOW IT WORKS</h2>
+<h2 class="text-primary text-uppercase title2 text-center mt-md-5 pt-3">HOW IT WORKS</h2>
 <div class='container bg-white pt-md-5 mt-md-3'>
     <div class="row pb-5 px-md-4">
         <div class="col-md-5">
@@ -162,7 +162,7 @@
 </div>
 
 <!--POUR QUI-->
-<h2 class="text-center title2 text-uppercase pb-3 pt-5">The community </h2>
+<h2 class="text-center title2 text-primary text-uppercase pb-3 pt-5">The community </h2>
 <div class="container text-center">
     <div class="row">
         <div class="col-md-4 bck-grey bck-grey-hover bck-grey bck-grey-hover-hover p-5">
@@ -171,7 +171,7 @@
         </div>
         <div class="col-md-4 bck-grey bck-grey-hover bck-grey bck-grey-hover-hover p-5">
             <h2 class="text-grey">Debutant dentists</h2>
-            <p class="text-black-50">Improve your practice and assert yourknowledge by learning from the techniques of more experienced dentists! </p>
+            <p class="text-black-50">Improve your practice and assert your knowledge by learning from the techniques of more experienced dentists! </p>
         </div>
         <div class="col-md-4 bck-grey bck-grey-hover bck-grey bck-grey-hover-hover p-5">
             <h2 class="text-grey">Experts</h2>
@@ -191,8 +191,8 @@
                 <div class="mt-3 pt-md-5">
                     <h2 class="text-primary text-uppercase text-center pt-md-5 title2">Form</h2>
                 </div>
-                <p class="text-black-50 pt-3 px-md-5 mt-3  text-center fa-1-2">Our platform is in construction. It will shortly be available on desktop, mobile and tablet.<br><br><br>To be the first informed of our latest news and participate to the development of Dentilo.</p>
-                <p class="text-grey pt-3 mt-1 px-md-5 text-center font-weight-bold ft-s2">Fill in the from below</p>
+                <p class="text-black-50 pt-3 px-md-5 mt-3  text-center fa-1-2">To be the first informed of our latest news and participate to the development of Dentiio.</p>
+                <p class="text-grey pt-3 mt-1 px-md-5 text-center font-weight-bold ft-s2">Fill in the form below</p>
                 <a href="https://docs.google.com/forms/d/e/1FAIpQLSfS_jq9N_vC1eYy48ZX8I3hqyO7R4be91k5Vi_2BUymXkM-eg/viewform?usp=sf_link" target='_blank' rel="noopener noreferrer" class="nav-item button buttonhome border-0 mt-5 mt-md-5 py-3" style="width: 400px; font-size: 1.3rem"><span class="gradient"></span>Give us your feedback</a>
             </div>
         </div>

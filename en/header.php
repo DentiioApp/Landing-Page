@@ -42,7 +42,7 @@
                     <a class="nav-item nav-link <?php echo ($url=="index.php"? "active" : "nav-hover" )?>" href="index.php">Home <span class="sr-only">(current)</span></a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-item nav-link <?php echo ($url=="e-are.php"? "active" : "nav-hover" )?>" href="who-we-are.php">Who we are ?</a>
+                    <a class="nav-item nav-link <?php echo ($url=="e-are.php"? "active" : "nav-hover" )?>" href="who-we-are.php">About us</a>
                 </li>
                 <li class="nav-item">
                     <a href="../index.php" class="nav-item nav-link">

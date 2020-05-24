@@ -32,7 +32,7 @@
 <div class='container bck-grey picto-bloc px-3 pt-2 pb-3'>
     <div class="row pb-md-5">
         <div class="col-12 col-md-12 col-lg-12 p-3 mt-2">
-            <h2 class="text-grey text-uppercase text-center title2 pb-3">Nos Objectifs</h2>
+            <h2 class="text-primary text-uppercase text-center title2 pb-3">Nos Objectifs</h2>
         </div>
         <div class='item33 text-center'>
             <img class='picto' alt="validate your diagnosis" src="img/picto/laptop.png"/>

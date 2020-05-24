@@ -65,7 +65,7 @@
 <div class='container bck-grey bck-grey-hover picto-bloc px-3 pt-5 pb-md-5 pb-2'>
     <div class="row pb-md-5">
         <div class="col-12 col-md-12 col-lg-12 p-3 mt-md-5 ">
-            <h2 class="text-grey text-uppercase text-center mt-lg-4 pb-5 title2">nos atouts</h2>
+            <h2 class="text-primary text-uppercase text-center mt-lg-4 pb-5 title2">nos atouts</h2>
         </div>
         <div class='item33 text-center'>
             <img class='picto' alt="validate your diagnosis" src="img/picto/tooth.png"/>
@@ -89,7 +89,7 @@
 
 
 <!--HOW-->
-<h2 class="text-grey text-uppercase title2 text-center mt-md-5 pt-3">Le principe</h2>
+<h2 class="text-primary text-uppercase title2 text-center mt-md-5 pt-3">Le principe</h2>
 <div class='container bg-white pt-md-5 mt-md-3'>
     <div class="row pb-5 px-md-4">
         <div class="col-md-5">
@@ -159,7 +159,7 @@
 </div>
 
 <!--POUR QUI-->
-<h2 class="text-center title2 text-uppercase pb-3 pt-5">La communauté</h2>
+<h2 class="text-center title2 text-primary text-uppercase pb-3 pt-5">La communauté</h2>
 <div class="container text-center">
     <div class="row">
         <div class="col-md-4 bck-grey bck-grey-hover bck-grey bck-grey-hover-hover p-5">
@@ -186,45 +186,16 @@
         <div class='col-md-6'>
             <div class='pt-4 text-center'>
                 <div class="mt-3 pt-md-5">
-                    <h2 class="text-primary text-uppercase text-center pt-md-5 title2">Formulaire</h2>
+                    <h2 class="text-primary text-uppercase text-center pt-md-5 title2">Faites partie de notre communauté</h2>
                 </div>
-                <p class="text-black-50 pt-3 px-md-5 mt-3  text-center fa-1-2">Notre plateforme est en développement. Elle sera prochainement disponible sur web, mobile et tablette.<br><br><br>Pour être le premier informé de toute notre actualité et participer à la construction de Dentiio.</p>
-                <p class="text-grey pt-3 mt-1 px-md-5 text-center font-weight-bold ft-s2"> Remplissez le formulaire en cliquant ci-dessous:</p>
-                <a href="https://docs.google.com/forms/d/e/1FAIpQLSfS_jq9N_vC1eYy48ZX8I3hqyO7R4be91k5Vi_2BUymXkM-eg/viewform?usp=sf_link" target='_blank' rel="noopener noreferrer" class="nav-item button buttonhome border-0 mt-5 mt-md-5 py-3" style="width: 400px; font-size: 1.3rem"><span class="gradient"></span>Répondre au questionnaire</a>
+                <p class="text-black-50 pt-3 px-md-5 mt-3  text-center fa-1-2">Rejoignez notre groupe Facebook et participez au concours pour gagner un abonnement de 1 an à la revue dentaire Quintessence Dentisterie Restauratrice et Prothèse d’une valeur de 189 euros
+                </p>
+                <a href="https://www.facebook.com/groups/CasCliniqueDentiio/" target="_blank" class="nav-item button buttonhome border-0 mt-5 mt-md-5 py-3"  style="width: 400px; font-size: 1.3rem">Rejoindre la communauté</a>
             </div>
         </div>
     </div>
 </div>
 
-<div class='container pb-5'>
-    <div class="row pb-5">
-        <div class="col-md-2">
-        </div>
-        <div class='col-md-8 text-center'>
-            <h2 class="text-primary text-uppercase p-2 text-center ">CONCOURS FACEBOOK</h2>
-            <p class="h4">
-                Gagnez un abonnement de 1 an à la revue dentaire Quintessence Dentisterie Restauratrice et Prothèse d’une valeur de 189 euros
-            </p>
-        </div>
-    </div>
-    <div class="row">
-        <div class="col-md-1">
-        </div>
-        <div class="col-md-7">
-            <ol class="gradient-list w-100">
-                <li class="li-one "><h3>Rejoignez notre groupe facebook en cliquant ici: <a href="https://www.facebook.com/groups/CasCliniqueDentiio/" target="_blank" class="ml-3 btn btn-primary text-white">Rejoindre</a></h3></li>
-                <li class="li-two mt-5"><h3>Publiez-y votre plus belle photo dentaire</h3></li>
-            </ol>
-        </div>
-        <div class="col-md-4">
-            <img src="img/photo/concours.png" width="250px">
-        </div>
-    </div>
-    <p class="text-center pt-4 mb-5 text-black-50">
-        Date de fin le 5 juin!<br>
-        Nous attendons avec impatience votre plus belle publication!!
-    </p>
-</div>
 <?php include_once("footer.php") ;?>
 
 
