@@ -6,13 +6,13 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="The platform dedicated to sharing oral and dental knowledge">
+
     <?php
-    echo ($url=="e-are.php"?
-            "<meta name=\"description\" content=\"La plateforme dédiée au partage de connaissances bucco-dentaires\">
-            <title>Who we are ?</title>"
+    echo ($url=="ut-us.php"?
+            "<title>About us</title>"
                 :
-            "<meta name=\"description\" content=\"La plateforme dédiée au partage de connaissances bucco-dentaires\">
-            <title>Dentiio - The reference in dental diagnosis</title>"
+            "<title>Dentiio - The reference in dental diagnosis</title>"
     );
     ?>
 
@@ -42,7 +42,7 @@
                     <a class="nav-item nav-link <?php echo ($url=="index.php"? "active" : "nav-hover" )?>" href="index.php">Home <span class="sr-only">(current)</span></a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-item nav-link <?php echo ($url=="e-are.php"? "active" : "nav-hover" )?>" href="who-we-are.php">About us</a>
+                    <a class="nav-item nav-link <?php echo ($url=="ut-us.php"? "active" : "nav-hover" )?>" href="about-us.php">About us</a>
                 </li>
                 <li class="nav-item">
                     <a href="../index.php" class="nav-item nav-link">

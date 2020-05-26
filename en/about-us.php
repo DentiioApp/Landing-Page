@@ -8,7 +8,7 @@
                 <p class="fa-1-2 text-grey pt-4 pr-4 text-justify">
                     Created and developed by students of the Ipssi, School of Computer Science, Web and Digital Marketing in Paris, Dentiio is the result of a long and meticulous analysis of dental practice.
                     <br><br>
-                    In close collaboration with a dental surgeon and aiming to merge dentistry with technology, our ambition is to build an extensive network that will allow the exchange knowledge and mutual support within the community.
+                    In close collaboration with a dental surgeon and aiming to merge dentistry with technology, our ambition is to build an extensive network that will allow the exchange of knowledge and mutual support within the community.
                     <br><br>
                     The goal: To support health professionals, students and more experienced practitioners, in order to contribute to the improvement of dental practices.
                 </p>
