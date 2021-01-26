@@ -11,7 +11,7 @@ if (isset($_POST['submit'])) {
     $to = 'contact@dentiio.com';
     $subject = 'Demande de test !!!!';
     $headers = "From: ".$name." <".$email."> \r\n";
-    $send_email = mail($to,$subject,$message,$headers);
+    mail($to,$subject,$message,$headers);
 
     echo 'success';
 

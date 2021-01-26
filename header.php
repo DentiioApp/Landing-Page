@@ -72,7 +72,7 @@
                     <span aria-hidden="true">&times;</span>
                 </button>
             </div>
-            <form method="post" class="myform">
+            <form method="post" action="mailto:contact@dentiio.com" enctype="text/plain" ><!-- class="myform" -->
                 <div class="modal-body">
                     <p class="">Notre équipe sera ravie d’échanger avec vous pour vous faire tester l'application Dentiio</p>
                     <div class="container">
