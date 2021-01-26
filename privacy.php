@@ -6,6 +6,8 @@
 
 <div class="container py-5 px-md-4">
     <div class="row">
+        <div>A venir</div>
+        <!--
         <div class="col-12">
             <h1 class="text-primary">Charte relative à la protection des données à caractère personnel</h1>
             <h5 class="pt-4 text-grey">1. Définition et nature des données à caractère personnel</h5>
@@ -136,7 +138,7 @@
                 La présente charte est entrée en vigueur le 30/05/2020
             </p>
         </div>
-    </div>
+    </div>-->
 </div>
 
 <?php include_once("footer.php"); ?>

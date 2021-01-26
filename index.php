@@ -6,7 +6,9 @@
         <div class='col-md-6'>
             <div class="pt-md-5 pl-md-5">
                 <h1 class="text-primary text-res pt-2 title-name">Dentiio</h1>
-                <h1 class='text-res text-grey font-weight-light title-word animated bounceInLeft'>La référence en diagnostic dentaire<br><span class="title-word2">Car chaque cas clinique est unique</span></h1>
+                <h1 class='text-res text-grey font-weight-light title-word animated bounceInLeft'>
+                    Car chaque cas clinique est unique
+                    <br><span class="title-word2"></span></h1>
                 <ul class="bloc-list mt-5">
                     <li class="text-list">
                         Découvrez des cas dentaires réels et certifiés
@@ -18,8 +20,8 @@
                         Partagez vos protocoles et votre pratique
                     </li>
                 </ul>
-                <div class="mt-5 mb-3 text-center">
-                    <a href="https://docs.google.com/forms/d/e/1FAIpQLSfS_jq9N_vC1eYy48ZX8I3hqyO7R4be91k5Vi_2BUymXkM-eg/viewform?usp=sf_link"  target='_blank' rel="noopener noreferrer" class="button bg-primary p-2 border-0 ml-0 border-radius50 text-white">Répondre au questionnaire <i class="fa fa-arrow-right pl-2"></i></a>
+                <div class="mt-5 pt-3 mb-3 text-center">
+                    <a data-toggle="modal" data-target="#modalhome" class="button bg-primary p-3 border-0 ml-0 border-radius25 text-white ft-s2 pointer-click">Tester l'application<i class="fa fa-arrow-right pl-2"></i></a>
                 </div>
             </div>
         </div>
@@ -159,7 +161,7 @@
 </div>
 
 <!--POUR QUI-->
-<h2 class="text-center title2 text-primary text-uppercase pb-3 pt-5">La communauté</h2>
+<h2 class="text-center title2 text-primary text-uppercase pb-3 pt-5">Vous êtes </h2>
 <div class="container text-center">
     <div class="row">
         <div class="col-md-4 bck-grey bck-grey-hover bck-grey bck-grey-hover-hover p-5">
@@ -184,14 +186,14 @@
             <img class='illus illusordi' alt="Dentists treating a tooth" src="img/illus.png"/>
         </div>
         <div class='col-md-6'>
-            <div class='pt-4 text-center'>
+            <!--<div class='pt-4 text-center'>
                 <div class="mt-3 pt-md-5">
                     <h2 class="text-primary text-uppercase text-center pt-md-5 title2">Faites partie de notre communauté</h2>
                 </div>
                 <p class="text-black-50 pt-3 px-md-5 mt-3  text-center fa-1-2">Rejoignez notre groupe Facebook et participez au concours pour gagner un abonnement de 1 an à la revue dentaire Quintessence Dentisterie Restauratrice et Prothèse d’une valeur de 189 euros
                 </p>
                 <a href="https://www.facebook.com/groups/CasCliniqueDentiio/" target="_blank" class="nav-item button buttonhome border-0 mt-5 mt-md-5 py-3"  style="width: 400px; font-size: 1.3rem">Rejoindre la communauté</a>
-            </div>
+            </div>-->
         </div>
     </div>
 </div>

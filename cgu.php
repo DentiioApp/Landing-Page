@@ -6,6 +6,8 @@
 
 <div class="container py-5 px-md-4">
     <div class="row">
+        <div>A venir</div>
+        <!--
         <div class="col-12 text-grey">
             <h1 class="text-primary">
                Conditions Générales d'Utilisation
@@ -413,7 +415,7 @@
                 Les présentes conditions générales sont entrées en vigueur le 30/05/2020
             </p>
             <p>&nbsp;</p>
-        </div>
+        </div> -->
     </div>
 </div>
 

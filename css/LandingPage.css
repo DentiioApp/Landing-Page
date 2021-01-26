@@ -405,3 +405,15 @@ opacity: 0.6;
   text-align: center;
 }
 
+.pointer-click{
+  cursor: pointer;
+}
+
+input::placeholder {
+  color: darkgray!important;
+}
+
+.border-radius25{
+  border-radius: 0.4rem;
+}
+
