@@ -67,7 +67,7 @@
     </nav>
 </header>
 <div class="modal fade" id="modalhome" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-    <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+    <div class="modal-dialog modal-dialog-centered modal-lg"  role="document">
         <div class="modal-content">
             <div class="modal-header">
                 <h4 class="modal-title" id="exampleModalLabel">Transmettez-nous vos informations !</h4>
@@ -75,7 +75,10 @@
                     <span aria-hidden="true">&times;</span>
                 </button>
             </div>
-            <form method="post" action="mailto:contact@dentiio.com" enctype="text/plain" ><!-- class="myform" -->
+            <div class="modal-body" >
+                <iframe width="540" height="550px" src="https://70e5514b.sibforms.com/serve/MUIEAFnrKaO2Rqxhbrzk4WkYngtG3-PSBdXXHajV7lsRJ10m6uI61XrAVaS7C_neErCiq8rBBRmdI9OJmYeqHTdpbo4ApjX5ThGtlCDQivOeR9jdZe09LcyOczwFShHOCvRkN3gMXiD1NBck2iESPE-UNAy3-CFLHYRKXglAD-Odcjvte2SeZJFkhABfKr5hlPy-IY0qPMTSG6Tu" frameborder="0" scrolling="auto" allowfullscreen style="display: block;margin-left: auto;margin-right: auto;max-width: 100%;"></iframe>
+            </div>
+            <!--<form method="post" action="mailto:contact@dentiio.com" enctype="text/plain" > class="myform"
                 <div class="modal-body">
                     <p class="">Notre équipe sera ravie d’échanger avec vous pour vous faire tester l'application Dentiio</p>
                     <div class="container">
@@ -119,7 +122,7 @@
                     <input type="submit" name="submit" id="submiy" value="Envoyer" class="btn btn-primary">
                     <span class="output_message"></span>
                 </div>
-            </form>
+            </form>-->
 
         </div>
     </div>
