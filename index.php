@@ -33,16 +33,20 @@
 
 <p id="atout" class="mb-5 pt-5"></p>
 <!--Valeurs Desktop-->
-<div class='container bg-secondary d-none d-md-block mt-5'>
+<div class='container  d-none d-md-block mt-5'>
+    <div class="row">
+        <div class="col-12 col-md-12 col-lg-12 p-3 mt-md-5 ">
+            <h2 class="text-primary text-uppercase text-center mt-lg-4 pb-5 title2">notre solution</h2>
+        </div>
+    </div>
     <div class="row">
         <div class="col-0 col-md-1 col-lg-1"></div>
         <div class="col-12 col-md-10 col-lg-10">
             <img class="mw-100 z-100 mt-n5 mb-n5 w-100 position-relative" alt="dentist team" src="img/photo/dentist-photo.png">
             <div class="caption bg-white09 z-100">
-                <h2 class="text-primary text-uppercase text-left p-2 title2">notre solution</h2>
-                <p class="text-grey fa-1-2 p-2 desc">
-                    Besoin d’un allié dans votre pratique quotidienne?
-                    <br><br>Dentiio réunit tout le corps médical de la santé bucco-dentaire pour échanger des cas et des protocoles thérapeutiques de façon anonyme et sécurisée.
+                <p class="text-grey p-2 desc text-center" style="font-size: 1.5em;">
+                    Besoin d’un allié dans votre pratique ?
+                    <br><br>Dentiio rapproche les chirurgiens-dentistes pour échanger des cas cliniques de façon anonyme et sécurisée.
             </div>
         </div>
         <div class="col-0 col-md-1 col-lg-1"></div>
@@ -85,115 +89,6 @@
             <img class='picto' alt="Become an actor in your community" src="img/picto/teamwork.png"/>
             <h2 class='picto-title text-grey'>Devenez acteur de votre communauté</h2>
             <p class='desc fa-1-2 text-center text-black-50 px-md-4'>Démarquez-vous en publiant vos meilleurs cas, et faites partie d’une communauté d’entraide.</p>
-        </div>
-    </div>
-</div>
-
-
-<!--HOW-->
-<h2 class="text-primary text-uppercase title2 text-center mt-md-5 pt-3">Le principe</h2>
-<div class='container bg-white pt-md-5 mt-md-3'>
-    <div class="row pb-5 px-md-4">
-        <div class="col-md-5">
-            <ol class="gradient-list">
-                <li class="li-one mt-md-n4"><h3>Recherchez les pathologies ou traitements publiés par vos confrères</h3></li>
-            </ol>
-                <p class="text-grey fa-1-2 pt-5">
-                    Accédez à l’ensemble des publications dentaires de vos confrères pour découvrir :
-                </p>
-                <ul class="bloc-list mt-2">
-                    <li class="text-list fa-1-2">
-                        Des traitements alternatifs
-                    </li>
-                    <li class="text-list fa-1-2">
-                        De nouveaux protocoles thérapeutiques
-                    </li>
-                    <li class="text-list fa-1-2">
-                        Des pathologies rares
-                    </li>
-                </ul>
-            </ol>
-        </div>
-        <div class="col-md-7">
-            <img class="w-100 border-primary border-lg" alt="Home of application" src="img/screen/search.png">
-            <p class="text-black-50 fa-0-8">Maquette non définitive</p>
-        </div>
-    </div>
-    <div class="row pt-7 pb-7 px-md-4 bck-grey bck-grey-hover">
-        <div class="col-md-5 order-md-last">
-            <ol class="gradient-list">
-                <li class="li-two mt-n4"><h3>Publiez vos cas cliniques les plus pertinents</h3></li>
-            </ol>
-                <p class="text-grey fa-1-2 pt-5">
-                    Publiez vos cas dentaires et vos photos, en y détaillant :
-                </p>
-                <ul class="bloc-list mt-2">
-                    <li class="text-list fa-1-2">
-                        L’historique du patient
-                    </li>
-                    <li class="text-list fa-1-2">
-                        La pathologie rencontrée
-                    </li>
-                    <li class="text-list fa-1-2">
-                        Le traitement réalisé
-                    </li>
-                </ul>
-        </div>
-        <div class="col-md-7 order-md-first">
-            <img class="w-100 border-primary border-lg" alt="Share your diagnosis with Dentiio application" src="img/screen/details.png">
-            <p class="text-black-50 fa-0-8">Maquette non définitive</p>
-        </div>
-    </div>
-    <div class="row pt-7 px-md-4 pb-5">
-        <div class="col-md-5">
-            <ol class="gradient-list">
-                <li class="li-three mt-n4"><h3>Participez aux discussions</h3></li>
-            </ol>
-                <p class="text-grey fa-1-2 pt-5">
-                    Répondez aux questions de vos confrères ou postez les vôtres et participez activement au sein de la communauté.
-                </p>
-        </div>
-        <div class="col-md-7">
-            <img class="w-100 border-secondary border-lg" alt="Chat on Dentiio application" src="img/screen/discussion.png">
-            <p class="text-black-50 fa-0-8">Maquette non définitive</p>
-        </div>
-    </div>
-</div>
-
-<!--POUR QUI-->
-<h2 class="text-center title2 text-primary text-uppercase pb-3 pt-5">Vous êtes </h2>
-<div class="container text-center">
-    <div class="row">
-        <div class="col-md-4 bck-grey bck-grey-hover bck-grey bck-grey-hover-hover p-5">
-            <h2 class="text-grey">Etudiants</h2>
-            <p class="text-black-50">Passez enfin de la théorie à la pratique!<br> Explorez tous les aspects cliniques de la médecine dentaire.</p>
-        </div>
-        <div class="col-md-4 bck-grey bck-grey-hover bck-grey bck-grey-hover-hover p-5">
-            <h2 class="text-grey">Jeunes dentistes</h2>
-            <p class="text-black-50">Améliorez votre pratique et affirmez vos connaissances en consultant les protocoles et techniques de dentistes plus expérimentés!</p>
-        </div>
-        <div class="col-md-4 bck-grey bck-grey-hover bck-grey bck-grey-hover-hover p-5">
-            <h2 class="text-grey">Experts</h2>
-            <p class="text-black-50">Transmettez votre savoir, enseignez vos connaissances aux plus jeunes et débattez entre professionnels!</p>
-        </div>
-    </div>
-</div>
-
-<!--GG FORM-->
-<div class='container mt-4'>
-    <div class="row">
-        <div class='col-md-6 illusbloc'>
-            <img class='illus illusordi' alt="Dentists treating a tooth" src="img/illus.png"/>
-        </div>
-        <div class='col-md-6'>
-            <!--<div class='pt-4 text-center'>
-                <div class="mt-3 pt-md-5">
-                    <h2 class="text-primary text-uppercase text-center pt-md-5 title2">Faites partie de notre communauté</h2>
-                </div>
-                <p class="text-black-50 pt-3 px-md-5 mt-3  text-center fa-1-2">Rejoignez notre groupe Facebook et participez au concours pour gagner un abonnement de 1 an à la revue dentaire Quintessence Dentisterie Restauratrice et Prothèse d’une valeur de 189 euros
-                </p>
-                <a href="https://www.facebook.com/groups/CasCliniqueDentiio/" target="_blank" class="nav-item button buttonhome border-0 mt-5 mt-md-5 py-3"  style="width: 400px; font-size: 1.3rem">Rejoindre la communauté</a>
-            </div>-->
         </div>
     </div>
 </div>

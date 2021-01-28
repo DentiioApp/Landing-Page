@@ -8,11 +8,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <?php
     echo ($url=="-nous.php"?
-            "<meta name=\"description\" content=\"La plateforme dédiée au partage de connaissances bucco-dentaires\">
+            "<meta name=\"description\" content=\"La plateforme de partage de cas cliniques dentaires\">
             <title>Qui sommes-nous ?</title>"
                 :
-            "<meta name=\"description\" content=\"La plateforme dédiée au partage de connaissances bucco-dentaires\">
-            <title>Dentiio - La référence en diagnostic dentaire</title>"
+            "<meta name=\"description\" content=\"La plateforme de partage de cas cliniques dentaires\">
+            <title>Dentiio </title>"
     );
     ?>
 
@@ -44,6 +44,9 @@
                     <a class="nav-item nav-link <?php echo ($url=="index.php"? "active" : "nav-hover" )?>" href="index.php">Accueil <span class="sr-only">(current)</span></a>
                 </li>
                 <li class="nav-item">
+                    <a class="nav-item nav-link <?php echo ($url=="ncept.php"? "active" : "nav-hover" )?>" href="concept.php">Notre concept </a>
+                </li>
+                <li class="nav-item">
                     <a class="nav-item nav-link <?php echo ($url=="-nous.php"? "active" : "nav-hover" )?>" href="qui-sommes-nous.php">Qui sommes-nous ?</a>
                 </li>
                 <li>
@@ -60,7 +63,7 @@
                     </a>
                 </li>
             </ul>
-        </div>=
+        </div>
     </nav>
 </header>
 <div class="modal fade" id="modalhome" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
@@ -124,8 +127,6 @@
 <script>
     $(document).ready(function() {
         $('.myform').on('submit',function(){
-
-
             var form = $(this);
             $.ajax({
                 url: "sendMail.php",

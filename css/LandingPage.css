@@ -355,9 +355,9 @@ z-index: 10;
 .caption {
 position: absolute;
 top: 50%;
-left: 30%;
+left: 35%;
 transform: translate( -50%, -50% );
-width: 50%;
+width: 60%;
 padding: 15px;
 }
 .bg-white09{

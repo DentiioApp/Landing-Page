@@ -20,13 +20,7 @@
         </div>
     </div>
 </div>
-<div class='container pb-4 pt-5'>
-    <div class="row">
-        <div class='col-md-12 text-center'>
-            <h2 class="text-primary text-uppercase pt-2 pb-5 title2">Presentation</h2>
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/79O_0hvT3-Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>        </div>
-    </div>
-</div>
+
 <!--EXPLICATION PICTO-->
 <p id="atout" class="mb-5"></p>
 <div class='container bck-grey picto-bloc px-3 pt-2 pb-3'>
@@ -50,37 +44,7 @@
         </div>
     </div>
 </div>
-<!--OPEN SOURCE-->
-<div class='container mt-4 mb-5'>
-    <div class="row">
-        <div class='col-md-6 illusbloc ml-n5'>
-            <img class='illus illusordi' alt="programming illustration" src="img/illusDev.png"/>
-        </div>
-        <div class='col-md-6'>
-            <div class='pt-4 text-center'>
-                <div class="mt-3 pt-md-5">
-                    <h2 class="text-primary text-uppercase text-center  title2">OPEN SOURCE</h2>
-                </div>
-                <p class="text-grey pt-3 px-md-5 mt-3 text-left fa-1-2">Dentiio est une application web open-source, l'accès au code source et la création de travaux dérivés est mis à disposition du public.<br></p>
-                <ul class="bloc-list mt-2 text-left">
-                    <li class="text-list mt-3 fa-1">
-                        Tout développeur voulant participer au projet est le bienvenu sur github.
-                    </li>
-                    <li class="text-list fa-1 mt-3 ">
-                        Contribuez à améliorer les performances et la sécurité de la plateforme.
-                    </li>
-                    <li class="text-list mt-3 fa-1">
-                        La partie Front est en React et le Back est une API en Symfony4.
-                    </li>
-                </ul>
 
-                <div class="mt-5">
-                    <a class="btn btn-primary mr-3" href="https://github.com/DentiioApp" target="_blank" rel="noopener" >Participez au développement <i class="fa fa-github"></i></a>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
 
 
 <?php include_once("footer.php") ;?>
